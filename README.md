@@ -21,6 +21,7 @@
 - 2017 IJCAI [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748)
 - 2018 CSCS [Sequential Attacks on Agents for Long-Term Adversarial Goals](https://arxiv.org/abs/1805.12487)
 - 2020 S&P Workshop [On the Robustness of Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.03722.pdf)
+- 2020 ICML [Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning](https://arxiv.org/abs/2003.12909)
 
 ## Others
 
