@@ -64,6 +64,12 @@
 - 2017 ICML [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
 - 2018 NeurIPS [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
 
+
+# Hardware Fault Attack
+
+- 2019 USENIX [Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks](https://arxiv.org/abs/1906.01017)
+- 2020 USENIX [DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips](https://arxiv.org/abs/2003.13746)
+
 # Model Inference
 
 ## Data Reconstruction
@@ -82,6 +88,4 @@
 ## Property Inference Attack
 
 - 2018 CCS [Property Inference Attacks on Fully Connected Neural Networksusing Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
-
-# Federated Learning
 
