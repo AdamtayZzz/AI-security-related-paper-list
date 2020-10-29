@@ -67,6 +67,11 @@
 
 # Hardware Fault Attack
 
+## Preliminaries
+- 2014 ISCA [Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf)
+
+## Applications
+
 - 2019 USENIX [Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks](https://arxiv.org/abs/1906.01017)
 - 2020 USENIX [DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips](https://arxiv.org/abs/2003.13746)
 
