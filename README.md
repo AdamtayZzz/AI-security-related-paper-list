@@ -52,7 +52,7 @@
 
 - 2017 Arxiv [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)
 - 2018 NDSS [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
-- 2020 AAAI [https://arxiv.org/pdf/1910.00033.pdf](https://arxiv.org/abs/1910.00033)
+- 2020 AAAI [Hidden Trigger Backdoor Attacks](https://arxiv.org/abs/1910.00033)
 
 ## Defense
 
