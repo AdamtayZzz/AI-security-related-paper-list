@@ -2,6 +2,10 @@
 
 *My current research interests are in AI Security*
 
+# Model Compression
+
+## Quantization
+
 # Reinforcement Learning
 
 ## Design
@@ -33,11 +37,13 @@
 
 - 2014 ICLR [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
 - 2015 ICLR [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
+--------------------------
 - 2016 S&P [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
 - 2016 CVRP [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
 - 2017 ICLR [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
 - 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
+--------------------------
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
 - 2019 S&P [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)
 
