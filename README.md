@@ -59,7 +59,8 @@
 - 2018 RAID [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) 
 - 2019 S&P [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)
 - 2019 CCS [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/10.1145/3319535.3363216)
-- 2019 IJCAI [https://www.ijcai.org/Proceedings/2019/647](https://www.ijcai.org/Proceedings/2019/647)
+- 2019 IJCAI [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](https://www.ijcai.org/Proceedings/2019/647)
+
 # Data Poisoning
 
 - 2017 ICML [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
