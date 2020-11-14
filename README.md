@@ -6,10 +6,11 @@
 
 ## Quantization
 
+- 2017 ICLR [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600)
 - 2018 NIPS [Scalable Methods for 8-bit Training of Neural Networks](https://arxiv.org/abs/1805.11046)
 - 2018 CVPR [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)
 - 2018 Google White Paper [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342)
-
+- 2018 ICLR [Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/abs/1802.08635)
 
 # Reinforcement Learning
 
