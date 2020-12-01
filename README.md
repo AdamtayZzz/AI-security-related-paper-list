@@ -1,7 +1,3 @@
-*This repo records the papers I have read throughout my undergraduate period*
-
-*My current research interests are in AI Security*
-
 # Model Compression
 
 ## Quantization
@@ -94,7 +90,7 @@
 - 2019 USENIX [Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks](https://arxiv.org/abs/1906.01017)
 - 2020 USENIX [DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips](https://arxiv.org/abs/2003.13746)
 
-# Model Inference
+# Model Inference Attack
 
 ## Data Reconstruction
 
