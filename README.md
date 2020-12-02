@@ -33,13 +33,23 @@
 
 - 2017 ICML [Robust Adversarial Reinforcement Learning](https://arxiv.org/abs/1703.02702)
 
+# Person Re-identification
+
+## Survey
+
+- 2020 arxiv [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193)
+
 # Adversarial Attack
+
+## Survey
+
+- 2020 Engineering [Adversarial Attacks and Defenses in Deep Learning](https://www.sciencedirect.com/science/article/pii/S209580991930503X)
 
 ## Attack
 
 - 2014 ICLR [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
-- 2015 ICLR [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
 --------------------------
+- 2015 ICLR [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
 - 2016 S&P [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
 - 2016 CVRP [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
 - 2017 ICLR [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
