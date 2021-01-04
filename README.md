@@ -49,21 +49,23 @@
 ## Attack
 
 - 2014 ICLR [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
---------------------------
-- 2015 ICLR [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
-- 2016 S&P [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
-- 2016 CVRP [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
-- 2017 ICLR [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
-- 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
+- 2015 ICLR FGSM [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
+- 2016 S&P JSMA [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
+- 2016 CVPR [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
+- 2017 ICLR BIM&ICLM [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)
+- 2017 ICLR targeted FGSM [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
+- 2017 S&P C&W [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
+- 2017 CVPR [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)
+- 2017 arxiv [UPSET and ANGRI : Breaking High Performance Image Classifiers](https://arxiv.org/abs/1707.01159)
+- 2017 arxiv [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373)
+- 2018 IEEE TECV one-pixel attack [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
---------------------------
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
 - 2019 S&P [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)
 
 ## Defense
 
 - 2016 S&P [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508)
-- 2017 S&P [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 
 # Backdoor Attack
 
