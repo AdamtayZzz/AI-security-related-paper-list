@@ -56,8 +56,6 @@
 - 2017 ICLR BIM&ICLM [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
 - 2017 S&P C&W [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 - 2017 CVPR [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)
-- 2017 arxiv [UPSET and ANGRI : Breaking High Performance Image Classifiers](https://arxi v.org/abs/1707.01159)
-- 2017 arxiv [Houdini: Fooling Deep Structured Prediction Models](https://arxiv.org/abs/1707.05373)
 - 2018 IEEE TECV one-pixel attack [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
