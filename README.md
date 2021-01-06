@@ -63,8 +63,14 @@
 
 ## Defense
 
+- 2015 arxiv [Foveation-based Mechanisms Alleviate Adversarial Examples](https://arxiv.org/abs/1511.06292)
+- 2016 CVPR [A study of the effect of JPG compression on adversarial images](https://arxiv.org/abs/1608.00853)
 - 2016 S&P [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508)
-
+- 2017 ICCV [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/abs/1703.08603)
+- 2017 arxiv [DeepCloak: Masking Deep Neural Network Models for Robustness Against Adversarial Samples](https://arxiv.org/abs/1702.06763)
+- 2017 arxiv [Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN](https://arxiv.org/abs/1705.03387)
+- 2018 AAAI [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404)
+- 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
 # Backdoor Attack
 
 ## Survey
