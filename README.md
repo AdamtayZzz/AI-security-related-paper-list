@@ -20,7 +20,7 @@
 
 - 2016 ICML [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 
-## Adversarial Attack
+## Adversarial Attack on RL
 
 - 2017 ICLR Workshop [Adversarial Attacks on Neural Network Policies](https://arxiv.org/abs/1702.02284)
 - 2017 MLDM [Vulnerability of Deep Reinforcement Learning toPolicy Induction Attacks](https://arxiv.org/abs/1701.04143)
@@ -38,6 +38,10 @@
 ## Survey
 
 - 2020 arxiv [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193)
+
+## Adversarial Attack on ReID
+
+- 2018 ECCV [Adversarial Open-World Person Re-Identification](https://arxiv.org/abs/1807.10482)
 
 # Adversarial Attack
 
