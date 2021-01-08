@@ -42,6 +42,11 @@
 ## Adversarial Attack on ReID
 
 - 2018 ECCV [Adversarial Open-World Person Re-Identification](https://arxiv.org/abs/1807.10482)
+- 2019 ICCV [advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns](https://arxiv.org/abs/1908.09327)
+- 2020 CVPR [Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
+](https://arxiv.org/abs/2004.04199)
+- 2020 IEEE ACCESS [An Effective Adversarial Attack on Person Re-Identification in Video Surveillance via Dispersion Reduction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9195855)
+
 
 # Adversarial Attack
 
