@@ -39,6 +39,11 @@
 
 - 2020 arxiv [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193)
 
+## Design
+
+- 2020 ECCV [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
+- 2021 Arxiv [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/abs/2102.04378)
+
 ## Adversarial Attack on ReID
 
 - 2018 ECCV [Adversarial Open-World Person Re-Identification](https://arxiv.org/abs/1807.10482)
@@ -55,7 +60,7 @@
 - 2018 IEEE ACCESS [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553)
 - 2020 Engineering [Adversarial Attacks and Defenses in Deep Learning](https://www.sciencedirect.com/science/article/pii/S209580991930503X)
 
-## Attack
+## Attack-CV
 
 - 2014 ICLR [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
 - 2015 ICLR FGSM [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
@@ -68,11 +73,8 @@
 - 2018 IEEE TECV one-pixel attack [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
-- 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
-- 2019 S&P [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)
-- 2021 [Meta Adversarial Training](https://arxiv.org/abs/2101.11453)
 
-## Defense
+## Defense-CV
 
 - 2015 arxiv [Foveation-based Mechanisms Alleviate Adversarial Examples](https://arxiv.org/abs/1511.06292)
 - 2016 CVPR [A study of the effect of JPG compression on adversarial images](https://arxiv.org/abs/1608.00853)
@@ -83,6 +85,11 @@
 - 2017 arxiv [Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN](https://arxiv.org/abs/1705.03387)
 - 2018 AAAI [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404)
 - 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
+- 2021 [Meta Adversarial Training](https://arxiv.org/abs/2101.11453)
+
+## Attack-others
+- 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
+- 2019 S&P [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)
 
 # Backdoor Attack
 
