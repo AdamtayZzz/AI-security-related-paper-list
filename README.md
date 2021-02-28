@@ -8,6 +8,12 @@
 - 2018 Google White Paper [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342)
 - 2018 ICLR [Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/abs/1802.08635)
 
+# Transformer
+
+- 2017 NeurIPS [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- 2020 ECCV [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
+- 2021 Arxiv [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/abs/2102.04378)
+
 # Reinforcement Learning
 
 ## Design
@@ -38,11 +44,6 @@
 ## Survey
 
 - 2020 arxiv [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193)
-
-## Design
-
-- 2020 ECCV [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
-- 2021 Arxiv [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/abs/2102.04378)
 
 ## Adversarial Attack on ReID
 
