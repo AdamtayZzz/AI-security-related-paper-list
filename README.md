@@ -11,6 +11,7 @@
 # Transformer
 
 - 2017 NeurIPS [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- 2018 ICML [Image Transformer](http://proceedings.mlr.press/v80/parmar18a.html)
 - 2020 ECCV [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
 - 2021 Arxiv [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/abs/2102.04378)
 
