@@ -13,7 +13,7 @@
 - 2017 NeurIPS [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - 2018 ICML [Image Transformer](http://proceedings.mlr.press/v80/parmar18a.html)
 - 2020 ECCV [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
-- 2020 Arxiv [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+- 2020 ICLR [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 - 2021 Arxiv [TransReID: Transformer-based Object Re-Identification](https://arxiv.org/abs/2102.04378)
 
 # Reinforcement Learning
@@ -46,6 +46,10 @@
 ## Survey
 
 - 2020 arxiv [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193)
+
+## Design
+
+- 2016 arxiv [PersonNet: Person Re-identification with Deep Convolutional Neural Networks](https://arxiv.org/abs/1601.07255)
 
 ## Adversarial Attack on ReID
 
@@ -105,6 +109,7 @@
 - 2018 NDSS [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
 - 2018 CCS [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/abs/1812.00483)
 - 2019 CCS [Latent Backdoor Attacks on Deep Neural Networks](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
+- 2020 CCS [A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models](https://arxiv.org/abs/1911.01559)
 - 2020 AAAI [Hidden Trigger Backdoor Attacks](https://arxiv.org/abs/1910.00033)
 
 ## Defense
