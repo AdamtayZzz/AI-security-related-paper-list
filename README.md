@@ -54,6 +54,7 @@
 ## Adversarial Attack on ReID
 
 - 2018 ECCV [Adversarial Open-World Person Re-Identification](https://arxiv.org/abs/1807.10482)
+- 2019 PAMI [Adversarial Metric Attack and Defense for Person Re-identification](https://arxiv.org/abs/1901.10650)
 - 2019 ICCV [advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns](https://arxiv.org/abs/1908.09327)
 - 2020 CVPR [Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
 ](https://arxiv.org/abs/2004.04199)
@@ -77,6 +78,7 @@
 - 2017 ICLR BIM&ICLM [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
 - 2017 S&P C&W [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 - 2017 CVPR [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)
+- 2018 ICLR PGD[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
 - 2018 IEEE TECV one-pixel attack [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
