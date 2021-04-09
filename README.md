@@ -123,6 +123,7 @@
 - 2019 CCS [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/10.1145/3319535.3363216)
 - 2019 IJCAI [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](https://www.ijcai.org/Proceedings/2019/647)
 - 2020 ECCV [One-pixel Signature: Characterizing CNN Models for Backdoor Detection](https://arxiv.org/abs/2008.07711)
+- 2020 ICDM[TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.017632)
 
 # Data Poisoning
 
