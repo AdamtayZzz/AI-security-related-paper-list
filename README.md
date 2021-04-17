@@ -47,8 +47,15 @@
 
 - 2020 arxiv [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/abs/2001.04193)
 
+## Toolbox
+
+- 2020 arxiv [FastReID: A Pytorch Toolbox for General Instance Re-identification](https://arxiv.org/abs/2006.02631)
+
 ## Design
 
+- 2019 CVPR workshop [Bag of Tricks and A Strong Baseline for Deep Person Re-identification](https://arxiv.org/abs/1903.07071)
+- 2015 ICCV [Scalable Person Re-identification: A Benchmark](https://ieeexplore.ieee.org/document/7410490)
+- 2016 ECCV workshop [Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking](https://arxiv.org/abs/1609.01775)
 - 2016 arxiv [PersonNet: Person Re-identification with Deep Convolutional Neural Networks](https://arxiv.org/abs/1601.07255)
 
 ## Adversarial Attack on ReID
@@ -74,6 +81,8 @@
 - 2015 ICLR FGSM [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
 - 2016 S&P JSMA [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
 - 2016 CVPR [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
+- 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697
+- 2016 arXiv[Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
 - 2017 ICLR targeted FGSM [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)
 - 2017 ICLR BIM&ICLM [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
 - 2017 S&P C&W [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
