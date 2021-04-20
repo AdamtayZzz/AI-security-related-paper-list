@@ -114,6 +114,7 @@
 # Backdoor Attack
 
 ## Survey
+- 2012 [TROJANZOO: Everything you ever wanted to know about neural backdoors (but were afraid to ask)](https://arxiv.org/abs/2012.09302)
 - 2020 [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
 
 ## Attack
@@ -124,6 +125,7 @@
 - 2019 CCS [Latent Backdoor Attacks on Deep Neural Networks](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
 - 2020 CCS [A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models](https://arxiv.org/abs/1911.01559)
 - 2020 AAAI [Hidden Trigger Backdoor Attacks](https://arxiv.org/abs/1910.00033)
+- 2020 NeurIPS [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
 
 ## Defense
 
