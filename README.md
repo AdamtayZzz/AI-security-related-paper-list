@@ -81,7 +81,7 @@
 - 2015 ICLR FGSM [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
 - 2016 S&P JSMA [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
 - 2016 CVPR [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
-- 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697
+- 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
 - 2016 arXiv[Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
 - 2017 ICLR targeted FGSM [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)
 - 2017 ICLR BIM&ICLM [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
