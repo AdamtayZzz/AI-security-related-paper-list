@@ -137,6 +137,7 @@
 - 2019 IJCAI [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](https://www.ijcai.org/Proceedings/2019/647)
 - 2020 ECCV [One-pixel Signature: Characterizing CNN Models for Backdoor Detection](https://arxiv.org/abs/2008.07711)
 - 2020 ICDM[TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.017632)
+- 2021 ICLR [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)
 
 # Data Poisoning
 
