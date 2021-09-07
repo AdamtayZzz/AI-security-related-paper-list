@@ -179,6 +179,9 @@
 
 - 2018 CCS [Property Inference Attacks on Fully Connected Neural Networksusing Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
 
-# Theoretical Analysis of Neural Networks
+# Others
 
 - 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
+- 2019 NIPS [Superposition of many models into one](https://arxiv.org/abs/1902.05522)
+- 2020 ICLR [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
+- 2020 arxiv [On Hiding Neural Networks Inside Neural Networks](https://arxiv.org/abs/2002.10078)
