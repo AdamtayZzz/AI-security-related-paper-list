@@ -130,6 +130,7 @@
 - 2020 NeurIPS [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
 - 2020 arxiv [Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)
 - 2021 USENIX Security [Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)
+- 2020 CVPR [TBT: Targeted Neural Network Attack with Bit Trojan](https://arxiv.org/abs/1909.05193)
 - 2021 ICCV [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/abs/2012.03816)
 - 2021 ICLR [WaNet -- Imperceptible Warping-based Backdoor Attack](https://arxiv.org/abs/2102.10369)
 
