@@ -121,6 +121,7 @@
 ## Attack
 
 - 2017 Arxiv [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)
+- 2018 Arxiv [Backdooring Convolutional Neural Networks via Targeted Weight Perturbations](https://arxiv.org/abs/1812.03128)
 - 2018 NDSS [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
 - 2018 CCS [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/abs/1812.00483)
 - 2018 Arxiv [Backdooring Convolutional Neural Networks via TargetedWeight Perturbations](https://arxiv.org/abs/1812.03128)
@@ -129,8 +130,10 @@
 - 2020 AAAI [Hidden Trigger Backdoor Attacks](https://arxiv.org/abs/1910.00033)
 - 2020 NeurIPS [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
 - 2020 arxiv [Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)
+- 2020 arxiv [Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks](https://arxiv.org/abs/2010.03282)
 - 2021 USENIX Security [Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)
 - 2020 CVPR [TBT: Targeted Neural Network Attack with Bit Trojan](https://arxiv.org/abs/1909.05193)
+- 2020 CIKM [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://arxiv.org/abs/2008.01761)
 - 2021 ICCV [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/abs/2012.03816)
 - 2021 ICLR [WaNet -- Imperceptible Warping-based Backdoor Attack](https://arxiv.org/abs/2102.10369)
 
