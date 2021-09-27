@@ -140,6 +140,7 @@
 - 2020 CVPR [TBT: Targeted Neural Network Attack with Bit Trojan](https://arxiv.org/abs/1909.05193)
 - 2020 CIKM [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://arxiv.org/abs/2008.01761)
 - 2020 SIGKDD [An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks](https://arxiv.org/abs/2006.08131)
+- 2021 ICSE [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/abs/2101.06896)
 - 2021 ICLR WORKSHOP [Subnet Replacement: Deployment-stage backdoor attack against deep neural networks in gray-box setting](https://arxiv.org/abs/2107.07240)
 
 ## Attack - others 
