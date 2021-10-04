@@ -183,6 +183,7 @@
 ## Membership Inference Attack
 
 - 2017 S&P [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)
+- 2018 Arxiv [Understanding Membership Inferences on Well-Generalized Learning Models](https://arxiv.org/abs/1802.04889)
 
 ## Model Inversion
 
