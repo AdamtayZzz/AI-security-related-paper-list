@@ -193,7 +193,7 @@
 
 - 2018 CCS [Property Inference Attacks on Fully Connected Neural Networksusing Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
 
-## Watermark for ML models
+# Watermark for ML models
 
 - 2017 ICMR [Embedding Watermarks into Deep Neural Networks](https://arxiv.org/abs/1701.04082)
 - 2019 ASPLOS [DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks](https://dl.acm.org/doi/10.1145/3297858.3304051)
