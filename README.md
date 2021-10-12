@@ -201,6 +201,7 @@
 
 ## Watermark Detection or Removal
 - 2019 ICASSP [Attacks on Digital Watermarks for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8682202/)
+- 2021 IH&MMSec Workshop [On the Robustness of the Backdoor-basedWatermarking in Deep Neural Networks](https://arxiv.org/abs/1906.07745)
 
 # Others
 
