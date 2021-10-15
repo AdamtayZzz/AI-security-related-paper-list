@@ -184,6 +184,7 @@
 
 - 2017 S&P [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)
 - 2018 Arxiv [Understanding Membership Inferences on Well-Generalized Learning Models](https://arxiv.org/abs/1802.04889)
+- 2019 NDSS [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/abs/1806.01246)
 
 ## Model Inversion
 
