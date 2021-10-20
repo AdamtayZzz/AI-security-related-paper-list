@@ -173,7 +173,7 @@
 - 2019 USENIX [Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks](https://arxiv.org/abs/1906.01017)
 - 2020 USENIX [DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips](https://arxiv.org/abs/2003.13746)
 
-# Model Inference Attack
+# Privacy-Related 
 
 ## Data Reconstruction
 
@@ -186,6 +186,8 @@
 - 2018 Arxiv [Understanding Membership Inferences on Well-Generalized Learning Models](https://arxiv.org/abs/1802.04889)
 - 2019 NDSS [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/abs/1806.01246)
 - 2019 CCS [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/abs/1905.10291)
+- 2019 CCS [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
+- 2021 CCS [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205)
 
 ## Model Inversion
 
@@ -194,6 +196,9 @@
 ## Property Inference Attack
 
 - 2018 CCS [Property Inference Attacks on Fully Connected Neural Networksusing Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
+
+## Machine Unlearning
+- 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 
 # Watermark for ML models
 
