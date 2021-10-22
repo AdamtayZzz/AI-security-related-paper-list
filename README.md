@@ -189,6 +189,7 @@
 - 2019 CCS [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
 - 2021 CCS [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205)
 - 2021 PMLR [Label-Only Membership Inference Attacks](https://arxiv.org/abs/2007.14321)
+- 2021 CCS [Membership Leakage in Label-Only Exposures](https://arxiv.org/abs/2007.15528)
 
 ## Model Inversion
 
