@@ -219,3 +219,4 @@
 - 2020 ICLR [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
 - 2020 arxiv [On Hiding Neural Networks Inside Neural Networks](https://arxiv.org/abs/2002.10078)
 - 2020 PNAS [Overparameterized neural networks implement associative memory](https://www.pnas.org/content/117/44/27162)
+- 2021 arxiv [Recurrent Parameter Generators](https://arxiv.org/abs/2107.07110)
