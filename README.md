@@ -1,5 +1,45 @@
-[TOC]
-
+- [Attack-Related](#attack-related)
+  * [Adversarial Attack](#adversarial-attack)
+    + [Survey](#survey)
+    + [Attack-CV](#attack-cv)
+    + [Defense-CV](#defense-cv)
+    + [Attack-others](#attack-others)
+  * [Backdoor Attack](#backdoor-attack)
+    + [Survey](#survey-1)
+    + [Attack - Data poisoning](#attack---data-poisoning)
+    + [Attack - not Data poisoning](#attack---not-data-poisoning)
+    + [Attack - others](#attack---others)
+    + [Defense](#defense)
+  * [Data Poisoning](#data-poisoning)
+  * [Hardware Fault Attack](#hardware-fault-attack)
+    + [Preliminaries](#preliminaries)
+    + [Applications](#applications)
+- [Privacy-Related](#privacy-related)
+  * [Data Reconstruction](#data-reconstruction)
+  * [Membership Inference Attack](#membership-inference-attack)
+  * [Model Inversion](#model-inversion)
+  * [Property Inference Attack](#property-inference-attack)
+- [Machine Learning Related](#machine-learning-related)
+  * [Watermarking](#watermarking)
+  * [Machine Unlearning](#machine-unlearning)
+  * [Theoretical Analysi](#theoretical-analysi)
+  * [Model Hiding](#model-hiding)
+- [DNN Design](#dnn-design)
+  * [Model Compression](#model-compression)
+    + [Quantization](#quantization)
+  * [Transformer](#transformer)
+    + [Transformer in Computer Vision](#transformer-in-computer-vision)
+  * [Reinforcement Learning](#reinforcement-learning)
+    + [Design](#design)
+      - [Basic](#basic)
+      - [Multi-Agents](#multi-agents)
+    + [Adversarial Attack on RL](#adversarial-attack-on-rl)
+    + [Others](#others)
+  * [Person Re-identification](#person-re-identification)
+    + [Survey](#survey-2)
+    + [Toolbox](#toolbox)
+    + [Design](#design-1)
+    + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 
 # Attack-Related
 
@@ -147,7 +187,7 @@
 - [ ] 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 
 ## Theoretical Analysi
-- [ ]2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
+- [ ] 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
 - [ ] 2020 PNAS [Overparameterized neural networks implement associative memory](https://www.pnas.org/content/117/44/27162)
 
 ## Model Hiding
