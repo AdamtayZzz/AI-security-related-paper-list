@@ -24,6 +24,7 @@
   * [Machine Unlearning](#machine-unlearning)
   * [Theoretical Analysi](#theoretical-analysi)
   * [Model Hiding](#model-hiding)
+  * [Emerging Topic](#emerging-tpic)
 - [DNN Design](#dnn-design)
   * [Model Compression](#model-compression)
     + [Quantization](#quantization)
