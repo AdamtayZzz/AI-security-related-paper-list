@@ -196,6 +196,9 @@
 - 2020 arxiv [On Hiding Neural Networks Inside Neural Networks](https://arxiv.org/abs/2002.10078)
 - 2021 arxiv [Recurrent Parameter Generators](https://arxiv.org/abs/2107.07110)
 
+## Emerging Topic
+- 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
+
 # DNN Design
 ## Model Compression
 
