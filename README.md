@@ -19,6 +19,7 @@
   * [Data Reconstruction](#data-reconstruction)
   * [Membership Inference Attack](#membership-inference-attack)
   * [Property Inference Attack](#property-inference-attack)
+  * [Others](#others)
 - [Machine Learning Related](#machine-learning-related)
   * [Watermarking](#watermarking)
   * [Machine Unlearning](#machine-unlearning)
@@ -166,6 +167,7 @@
 - 2019 NDSS [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/abs/1806.01246)
 - 2019 CCS [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/abs/1905.10291)
 - 2019 CCS [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
+- 2019 S&P [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://arxiv.org/abs/1812.00910)
 - 2021 CCS [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205)
 - 2021 ICML [Label-Only Membership Inference Attacks](https://arxiv.org/abs/2007.14321)
 - [ ] 2021 ICML [When Does Data Augmentation HelpWith Membership Inference Attacks?](http://proceedings.mlr.press/v139/kaya21a.html) 
@@ -174,6 +176,9 @@
 ## Property Inference Attack
 
 - 2018 CCS [Property Inference Attacks on Fully Connected Neural Networksusing Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
+
+## Others
+- 2017 CCS [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
 
 # Machine Learning Related
 
