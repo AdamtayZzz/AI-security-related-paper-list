@@ -108,6 +108,7 @@
 - 2020 arxiv [Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)
 - 2021 USENIX Security [Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)
 - 2021 ICCV [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/abs/2012.03816)
+- 2021 Infocom [Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks](https://ieeexplore.ieee.org/document/9488902)
 - 2021 ICLR [WaNet -- Imperceptible Warping-based Backdoor Attack](https://arxiv.org/abs/2102.10369)
 
 
@@ -121,7 +122,7 @@
 - 2021 ICLR WORKSHOP [Subnet Replacement: Deployment-stage backdoor attack against deep neural networks in gray-box setting](https://arxiv.org/abs/2107.07240)
 
 ### Attack - others 
-- 2020 PMLR [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
+- [ ] 2020 PMLR [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
 
 ### Defense
 - 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
@@ -168,6 +169,7 @@
 - 2019 CCS [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/abs/1905.10291)
 - 2019 CCS [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
 - 2019 S&P [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://arxiv.org/abs/1812.00910)
+- 2020 USENIX [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/abs/1906.11798)
 - 2021 CCS [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205)
 - 2021 ICML [Label-Only Membership Inference Attacks](https://arxiv.org/abs/2007.14321)
 - [ ] 2021 ICML [When Does Data Augmentation HelpWith Membership Inference Attacks?](http://proceedings.mlr.press/v139/kaya21a.html) 
