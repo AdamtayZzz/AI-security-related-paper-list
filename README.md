@@ -172,6 +172,7 @@
 - 2020 USENIX [Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference](https://arxiv.org/abs/1906.11798)
 - 2021 CCS [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205)
 - 2021 ICML [Label-Only Membership Inference Attacks](https://arxiv.org/abs/2007.14321)
+- 2021 ICCV [Membership Inference Attacks are Easier on Difficult Problems](https://arxiv.org/abs/2102.07762)
 - [ ] 2021 ICML [When Does Data Augmentation HelpWith Membership Inference Attacks?](http://proceedings.mlr.press/v139/kaya21a.html) 
 - 2021 CCS [Membership Leakage in Label-Only Exposures](https://arxiv.org/abs/2007.15528)
 
