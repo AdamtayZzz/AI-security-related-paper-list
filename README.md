@@ -83,6 +83,7 @@
 - 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
 - 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - 2019 NDSS [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
+- 2020 arxiv [Detection Defense Against Adversarial Attacks with Saliency Map](https://arxiv.org/abs/2009.02738)
 - 2021 [Meta Adversarial Training](https://arxiv.org/abs/2101.11453)
 
 ### Attack-others
