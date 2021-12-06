@@ -88,7 +88,7 @@
 - 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - 2019 NDSS [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
 - 2020 arxiv [Detection Defense Against Adversarial Attacks with Saliency Map](https://arxiv.org/abs/2009.02738)
-- 2021 [Meta Adversarial Training](https://arxiv.org/abs/2101.11453)
+- [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
 
 ### Attack-others
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
@@ -213,7 +213,8 @@
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 
 ## Neural Network Interpretability
-- [ ] 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- 2016 CVPR [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
+- 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
 
 
