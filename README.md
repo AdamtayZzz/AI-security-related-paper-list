@@ -26,6 +26,7 @@
   * [Theoretical Analysi](#theoretical-analysi)
   * [Model Hiding](#model-hiding)
   * [Emerging Topic](#emerging-topic)
+  * [Neural Network Interpretability](#neural-network-interpretability）
 - [DNN Design](#dnn-design)
   * [Model Compression](#model-compression)
     + [Quantization](#quantization)
@@ -209,7 +210,8 @@
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 
 ## Neural Network Interpretability
-- 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- [ ] 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
 
 
 # DNN Design
