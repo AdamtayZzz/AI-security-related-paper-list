@@ -23,10 +23,10 @@
 - [Machine Learning Related](#machine-learning-related)
   * [Watermarking](#watermarking)
   * [Machine Unlearning](#machine-unlearning)
-  * [Theoretical Analysi](#theoretical-analysi)
+  * [Theoretical Analysis](#theoretical-analysis)
   * [Model Hiding](#model-hiding)
   * [Emerging Topic](#emerging-topic)
-  * [Neural Network Interpretability](#neural-network-interpretability）
+  * [Neural Network Interpretability](#neural-network-interpretability)
 - [DNN Design](#dnn-design)
   * [Model Compression](#model-compression)
     + [Quantization](#quantization)
@@ -37,12 +37,15 @@
       - [Basic](#basic)
       - [Multi-Agents](#multi-agents)
     + [Adversarial Attack on RL](#adversarial-attack-on-rl)
-    + [Others](#others)
+    + [Others](#others-1)
   * [Person Re-identification](#person-re-identification)
     + [Survey](#survey-2)
     + [Toolbox](#toolbox)
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Attack-Related
 
