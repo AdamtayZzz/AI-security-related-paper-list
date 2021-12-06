@@ -126,7 +126,6 @@
 - [ ] 2020 PMLR [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
 
 ### Defense
-- 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - 2018 RAID [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) 
 - 2019 S&P [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)
 - 2019 CCS [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/10.1145/3319535.3363216)
@@ -196,7 +195,7 @@
 ## Machine Unlearning
 - [ ] 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 
-## Theoretical Analysi
+## Theoretical Analysis
 - [ ] 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
 - [ ] 2020 PNAS [Overparameterized neural networks implement associative memory](https://www.pnas.org/content/117/44/27162)
 
@@ -208,6 +207,10 @@
 
 ## Emerging Topic
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
+
+## Neural Network Interpretability
+- 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+
 
 # DNN Design
 ## Model Compression
