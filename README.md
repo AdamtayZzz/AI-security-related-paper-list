@@ -213,6 +213,7 @@
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 
 ## Neural Network Interpretability
+- 2014 ECCV [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 - 2016 CVPR [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
 - 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
