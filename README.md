@@ -168,6 +168,7 @@
 
 - 2017 S&P [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)
 - 2018 Arxiv [Understanding Membership Inferences on Well-Generalized Learning Models](https://arxiv.org/abs/1802.04889)
+- 2018 CSF [Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting](https://arxiv.org/abs/1709.01604)
 - 2018 CCS [Machine Learning with Membership Privacy using Adversarial Regularization](https://arxiv.org/abs/1807.05852)
 - 2019 NDSS [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/abs/1806.01246)
 - 2019 CCS [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/abs/1905.10291)
