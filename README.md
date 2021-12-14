@@ -25,11 +25,11 @@
   * [Machine Unlearning](#machine-unlearning)
   * [Theoretical Analysis](#theoretical-analysis)
   * [Model Hiding](#model-hiding)
-  * [Emerging Topic](#emerging-topic)
-  * [Neural Network Interpretability](#neural-network-interpretability)
-- [DNN Design](#dnn-design)
-  * [Model Compression](#model-compression)
+  * [Model Design for Efficiency](#model-design-for-efficiency)
     + [Quantization](#quantization)
+    + [Dynamic Inference](#dynamic-inference)
+  * [Neural Network Interpretability](#neural-network-interpretability)
+- [DNN Application](#dnn-application)
   * [Transformer](#transformer)
     + [Transformer in Computer Vision](#transformer-in-computer-vision)
   * [Reinforcement Learning](#reinforcement-learning)
@@ -45,7 +45,6 @@
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 # Attack-Related
 
@@ -211,7 +210,17 @@
 - 2020 arxiv [On Hiding Neural Networks Inside Neural Networks](https://arxiv.org/abs/2002.10078)
 - 2021 arxiv [Recurrent Parameter Generators](https://arxiv.org/abs/2107.07110)
 
-## Emerging Topic
+## Model Design for Efficiency 
+
+### Quantization
+
+- 2017 ICLR [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600)
+- 2018 NIPS [Scalable Methods for 8-bit Training of Neural Networks](https://arxiv.org/abs/1805.11046)
+- 2018 CVPR [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)
+- 2018 Google White Paper [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342)
+- 2018 ICLR [Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/abs/1802.08635)
+
+###  Dynamic Inference
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 
 ## Neural Network Interpretability
@@ -223,17 +232,7 @@
 - [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
 
 
-# DNN Design
-## Model Compression
-
-### Quantization
-
-- 2017 ICLR [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600)
-- 2018 NIPS [Scalable Methods for 8-bit Training of Neural Networks](https://arxiv.org/abs/1805.11046)
-- 2018 CVPR [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)
-- 2018 Google White Paper [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342)
-- 2018 ICLR [Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/abs/1802.08635)
-
+# DNN Application
 ## Transformer
 
 - 2017 NeurIPS [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
