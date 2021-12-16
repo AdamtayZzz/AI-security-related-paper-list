@@ -43,8 +43,10 @@
     + [Toolbox](#toolbox)
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
+- [Mathematics](#mathematics)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Attack-Related
 
@@ -293,3 +295,7 @@
 - 2020 CVPR [Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
 ](https://arxiv.org/abs/2004.04199)
 - 2020 IEEE ACCESS [An Effective Adversarial Attack on Person Re-Identification in Video Surveillance via Dispersion Reduction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9195855)
+
+# Mathematics
+- Blind Signal Separation [Blind signal separation: statistical principles](https://ieeexplore.ieee.org/document/720250)
+
