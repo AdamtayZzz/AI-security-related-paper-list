@@ -182,6 +182,7 @@
 - 2021 ICCV [Membership Inference Attacks are Easier on Difficult Problems](https://arxiv.org/abs/2102.07762)
 - [ ] 2021 ICML [When Does Data Augmentation HelpWith Membership Inference Attacks?](http://proceedings.mlr.press/v139/kaya21a.html) 
 - 2021 CCS [Membership Leakage in Label-Only Exposures](https://arxiv.org/abs/2007.15528)
+- 2021 AAAI [Membership Privacy for Machine Learning Models Through Knowledge Transfer](https://arxiv.org/abs/1906.06589)
 
 ## Property Inference Attack
 
