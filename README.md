@@ -22,6 +22,8 @@
   * [Others](#others)
 - [Machine Learning Related](#machine-learning-related)
   * [Watermarking](#watermarking)
+    + [Model Watermarking](#model-watermarking)
+    + [Dataset Watermarking](#dataset-watermarking)
   * [Machine Unlearning](#machine-unlearning)
   * [Theoretical Analysis](#theoretical-analysis)
   * [Model Hiding](#model-hiding)
@@ -44,8 +46,6 @@
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 - [Mathematics](#mathematics)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Attack-Related
@@ -196,11 +196,16 @@
 # Machine Learning Related
 
 ## Watermarking
+### Model Watermarking
 - 2017 ICMR [Embedding Watermarks into Deep Neural Networks](https://arxiv.org/abs/1701.04082)
 - [ ] 2018 USENIX[Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/abs/1802.04633)
 - 2019 ASPLOS [DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks](https://dl.acm.org/doi/10.1145/3297858.3304051)\
 - 2019 ICASSP [Attacks on Digital Watermarks for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8682202/)
 - 2021 WWW [RIGA: Covert and Robust White-BoxWatermarking of Deep Neural Networks](https://arxiv.org/abs/1910.14268)
+
+### Dataset Watermarking
+- 2020 NeurIPS Workshop [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)
+- 2020 ICML [Radioactive data: tracing through training](http://proceedings.mlr.press/v119/sablayrolles20a.html)
 
 ## Machine Unlearning
 - [ ] 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
