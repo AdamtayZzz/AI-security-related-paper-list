@@ -187,6 +187,7 @@
 - 2021 CCS [Membership Leakage in Label-Only Exposures](https://arxiv.org/abs/2007.15528)
 - 2021 AAAI [Membership Privacy for Machine Learning Models Through Knowledge Transfer](https://arxiv.org/abs/1906.06589)
 - 2021 USENIX [Systematic Evaluation of Privacy Risks of Machine Learning Models](https://arxiv.org/abs/2003.10595)
+- 2021 Arxiv [Source Inference Attacks in Federated Learning](https://arxiv.org/abs/2109.05659)
 
 ## Property Inference Attack
 
