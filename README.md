@@ -1,4 +1,4 @@
-# AI-Security Paper List
+- [AI-Security Paper List](#ai-security-paper-list)
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
@@ -21,6 +21,7 @@
   * [Property Inference Attack](#property-inference-attack)
   * [Others](#others)
 - [Machine Learning Related](#machine-learning-related)
+  * [Fingerprint](#fingerprint)
   * [Watermarking](#watermarking)
     + [Model Watermarking](#model-watermarking)
     + [Dataset Watermarking](#dataset-watermarking)
@@ -46,7 +47,6 @@
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 - [Mathematics](#mathematics)
-
 
 # Attack-Related
 
@@ -197,6 +197,9 @@
 - 2017 CCS [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
 
 # Machine Learning Related
+## Fingerprint
+- 2019 AsiaCCS [IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/abs/1910.12903)
+- 2021 ESORICS [TAFA: A Task-Agnostic Fingerprinting Algorithm for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_26)
 
 ## Watermarking
 ### Model Watermarking
