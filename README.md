@@ -74,7 +74,7 @@
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 CVPR MI-FGSM[Boosting Adversarial Attacks With Momentum](https://arxiv.org/abs/1710.06081v3)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
-- 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
+- [ ] 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 
 ### Defense-CV
 
@@ -190,6 +190,7 @@
 - 2021 AAAI [Membership Privacy for Machine Learning Models Through Knowledge Transfer](https://arxiv.org/abs/1906.06589)
 - 2021 USENIX [Systematic Evaluation of Privacy Risks of Machine Learning Models](https://arxiv.org/abs/2003.10595)
 - 2021 Arxiv [Source Inference Attacks in Federated Learning](https://arxiv.org/abs/2109.05659)
+- 2021 CVPR [On the Difficulty of Membership Inference Attacks](https://arxiv.org/abs/2005.13702)
 
 ## Property Inference Attack
 
