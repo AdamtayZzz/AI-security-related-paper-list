@@ -191,6 +191,7 @@
 - 2021 USENIX [Systematic Evaluation of Privacy Risks of Machine Learning Models](https://arxiv.org/abs/2003.10595)
 - 2021 Arxiv [Source Inference Attacks in Federated Learning](https://arxiv.org/abs/2109.05659)
 - 2021 CVPR [On the Difficulty of Membership Inference Attacks](https://arxiv.org/abs/2005.13702)
+- 2021 AIES [On the Privacy Risks of Model Explanations](https://arxiv.org/abs/1907.00164)
 
 ## Property Inference Attack
 
