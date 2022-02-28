@@ -113,6 +113,7 @@
 - 2020 AAAI [Hidden Trigger Backdoor Attacks](https://arxiv.org/abs/1910.00033)
 - 2020 NeurIPS [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
 - 2020 arxiv [Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)
+- 2020 arxiv [Backdoor Attacks on the DNN Interpretation System](https://arxiv.org/abs/2011.10698)
 - 2021 USENIX Security [Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)
 - 2021 ICCV [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/abs/2012.03816)
 - 2021 Infocom [Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks](https://ieeexplore.ieee.org/document/9488902)
