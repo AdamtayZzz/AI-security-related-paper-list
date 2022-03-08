@@ -1,4 +1,4 @@
-- [AI-Security Paper List](#ai-security-paper-list)
+# AI Security Paper List
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
@@ -22,8 +22,10 @@
   * [Others](#others)
 - [Machine Learning Related](#machine-learning-related)
   * [Fingerprint](#fingerprint)
-  * [Watermarking](#watermarking)
     + [Model Watermarking](#model-watermarking)
+    + [Dataset Fingerprint](#dataset-fingerprint)
+  * [Watermarking](#watermarking)
+    + [Model Watermarking](#model-watermarking-1)
     + [Dataset Watermarking](#dataset-watermarking)
   * [Machine Unlearning](#machine-unlearning)
   * [Theoretical Analysis](#theoretical-analysis)
@@ -47,6 +49,9 @@
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 - [Mathematics](#mathematics)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Attack-Related
 
@@ -204,8 +209,11 @@
 
 # Machine Learning Related
 ## Fingerprint
+### Model Watermarking
 - 2019 AsiaCCS [IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/abs/1910.12903)
 - 2021 ESORICS [TAFA: A Task-Agnostic Fingerprinting Algorithm for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_26)
+### Dataset Fingerprint
+- 2022 IEEE TIFS [Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication](https://ieeexplore.ieee.org/document/9724248)
 
 ## Watermarking
 ### Model Watermarking
