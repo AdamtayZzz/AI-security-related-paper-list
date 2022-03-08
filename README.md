@@ -22,7 +22,7 @@
   * [Others](#others)
 - [Machine Learning Related](#machine-learning-related)
   * [Fingerprint](#fingerprint)
-    + [Model Watermarking](#model-watermarking)
+    + [Model Fingerprint](#model-fingerprint)
     + [Dataset Fingerprint](#dataset-fingerprint)
   * [Watermarking](#watermarking)
     + [Model Watermarking](#model-watermarking-1)
@@ -209,7 +209,7 @@
 
 # Machine Learning Related
 ## Fingerprint
-### Model Watermarking
+### Model Fingerprint
 - 2019 AsiaCCS [IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/abs/1910.12903)
 - 2021 ESORICS [TAFA: A Task-Agnostic Fingerprinting Algorithm for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_26)
 ### Dataset Fingerprint
