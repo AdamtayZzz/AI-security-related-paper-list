@@ -3,7 +3,8 @@
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
     + [Attack-CV](#attack-cv)
-    + [Defense-CV](#defense-cv)
+    + [Defense-Robustness](#defense-robustness)
+    + [Defense-Detection](#defense-detection)
     + [Attack-others](#attack-others)
   * [Backdoor Attack](#backdoor-attack)
     + [Survey](#survey-1)
@@ -25,7 +26,7 @@
     + [Model Fingerprint](#model-fingerprint)
     + [Dataset Fingerprint](#dataset-fingerprint)
   * [Watermarking](#watermarking)
-    + [Model Watermarking](#model-watermarking-1)
+    + [Model Watermarking](#model-watermarking)
     + [Dataset Watermarking](#dataset-watermarking)
   * [Machine Unlearning](#machine-unlearning)
   * [Theoretical Analysis](#theoretical-analysis)
@@ -50,7 +51,6 @@
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 - [Mathematics](#mathematics)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Attack-Related
@@ -82,7 +82,7 @@
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
 - 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 
-### Defense-CV
+### Defense-Robustness
 
 - 2015 arxiv [Foveation-based Mechanisms Alleviate Adversarial Examples](https://arxiv.org/abs/1511.06292)
 - 2016 CVPR [A study of the effect of JPG compression on adversarial images](https://arxiv.org/abs/1608.00853)
@@ -93,10 +93,17 @@
 - 2017 arxiv [Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN](https://arxiv.org/abs/1705.03387)
 - 2018 AAAI [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404)
 - 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
-- 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
-- 2019 NDSS [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
-- 2020 arxiv [Detection Defense Against Adversarial Attacks with Saliency Map](https://arxiv.org/abs/2009.02738)
+- [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
+
+### Defense-Detection
+
+- 2017 ICLR [On Detecting Adversarial Perturbations](https://arxiv.org/abs/1702.04267)
+- 2017 Arixv [Detecting Adversarial Samples from Artifacts](https://arxiv.org/abs/1703.00410)
+- 2018 ICLR [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://arxiv.org/abs/1801.02613)
+- 2019 NDSS [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
+- 2020 ICJNN [Detection of Adversarial Examples in Deep Neural Networks with Natural Scene Statistics](https://ieeexplore.ieee.org/document/9206959)
+- 2020 arxiv [Detection Defense Against Adversarial Attacks with Saliency Map](https://arxiv.org/abs/2009.02738)
 
 ### Attack-others
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
