@@ -109,6 +109,7 @@
 - 2020 ICJNN [Detection of Adversarial Examples in Deep Neural Networks with Natural Scene Statistics](https://ieeexplore.ieee.org/document/9206959)
 - 2020 arxiv [Detection Defense Against Adversarial Attacks with Saliency Map](https://arxiv.org/abs/2009.02738)
 - 2020 arxiv [RAID: Randomized Adversarial-Input Detection for Neural Networks](https://arxiv.org/abs/2002.02776)
+- 2020 AAAI [ML-LOO: Detecting Adversarial Examples with Feature Attribution](https://arxiv.org/abs/1906.03499)
 - 2021 Springer [Adversarial example detection based on saliency map features](https://link.springer.com/article/10.1007/s10489-021-02759-8)
 
 ### Attack-others
