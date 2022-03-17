@@ -103,9 +103,13 @@
 - 2017 Arixv [Detecting Adversarial Samples from Artifacts](https://arxiv.org/abs/1703.00410)
 - 2017 ICCV [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly](https://arxiv.org/abs/1704.00103)
 - 2018 ICLR [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://arxiv.org/abs/1801.02613)
+- 2018 arxiv [Detecting Adversarial Perturbations with Saliency](https://arxiv.org/abs/1803.08773)
 - 2019 NDSS [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
+- 2019 arxiv [Model-based Saliency for the Detection of Adversarial Examples](https://openreview.net/pdf?id=HJe5_6VKwS)
 - 2020 ICJNN [Detection of Adversarial Examples in Deep Neural Networks with Natural Scene Statistics](https://ieeexplore.ieee.org/document/9206959)
 - 2020 arxiv [Detection Defense Against Adversarial Attacks with Saliency Map](https://arxiv.org/abs/2009.02738)
+- 2020 arxiv [RAID: Randomized Adversarial-Input Detection for Neural Networks](https://arxiv.org/abs/2002.02776)
+- 2021 Springer [Adversarial example detection based on saliency map features](https://link.springer.com/article/10.1007/s10489-021-02759-8)
 
 ### Attack-others
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
