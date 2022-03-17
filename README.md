@@ -62,6 +62,7 @@
 - 2018 IEEE ACCESS [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553)
 - 2020 Engineering [Adversarial Attacks and Defenses in Deep Learning](https://www.sciencedirect.com/science/article/pii/S209580991930503X)
 - 2021 arxiv [Adversarial Example Detection for DNN Models: A Review and Experimental Comparison](https://arxiv.org/abs/2105.00203)
+- 2021 arxiv [Advances in adversarial attacks and defenses in computer vision: A survey](https://arxiv.org/abs/2108.00401)
 
 ### Attack-CV
 
@@ -100,6 +101,7 @@
 
 - 2017 ICLR [On Detecting Adversarial Perturbations](https://arxiv.org/abs/1702.04267)
 - 2017 Arixv [Detecting Adversarial Samples from Artifacts](https://arxiv.org/abs/1703.00410)
+- 2017 ICCV [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly](https://arxiv.org/abs/1704.00103)
 - 2018 ICLR [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://arxiv.org/abs/1801.02613)
 - 2019 NDSS [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
 - 2020 ICJNN [Detection of Adversarial Examples in Deep Neural Networks with Natural Scene Statistics](https://ieeexplore.ieee.org/document/9206959)
