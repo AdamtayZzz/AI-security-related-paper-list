@@ -36,6 +36,7 @@
     + [Dynamic Inference](#dynamic-inference)
   * [Neural Network Interpretability](#neural-network-interpretability)
 - [DNN Application](#dnn-application)
+  * [GAN & AE](#gan---ae)
   * [Transformer](#transformer)
     + [Transformer in Computer Vision](#transformer-in-computer-vision)
   * [Reinforcement Learning](#reinforcement-learning)
@@ -279,6 +280,9 @@
 
 
 # DNN Application
+## GAN & AE
+- 2018 arxiv [Anomaly Detection for Skin Disease Images Using Variational Autoencoder](https://arxiv.org/abs/1807.01349) 
+
 ## Transformer
 
 - 2017 NeurIPS [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
