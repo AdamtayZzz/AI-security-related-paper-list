@@ -51,6 +51,8 @@
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
 - [Mathematics](#mathematics)
+  * [Probabilistic Graphical Model](#probabilistic-graphical-model)
+  * [others](#others)
 
 
 
@@ -348,5 +350,10 @@
 - 2020 IEEE ACCESS [An Effective Adversarial Attack on Person Re-Identification in Video Surveillance via Dispersion Reduction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9195855)
 
 # Mathematics
+## Probabilistic Graphical Model
+- 1999 SIGIR [Probabilistic Latent Semantic Indexing](https://dl.acm.org/doi/10.1145/312624.312649)
+- 2007 NeurIPS[Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.5555/2981562.2981720)
+## others
+
 - Blind Signal Separation [Blind signal separation: statistical principles](https://ieeexplore.ieee.org/document/720250)
 
