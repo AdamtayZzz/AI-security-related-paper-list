@@ -353,6 +353,10 @@
 ## Probabilistic Graphical Model
 - 1999 SIGIR [Probabilistic Latent Semantic Indexing](https://dl.acm.org/doi/10.1145/312624.312649)
 - 2007 NeurIPS[Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.5555/2981562.2981720)
+- 2017 AAAI[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
+- 2017 ICML [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
+
+
 ## others
 
 - Blind Signal Separation [Blind signal separation: statistical principles](https://ieeexplore.ieee.org/document/720250)
