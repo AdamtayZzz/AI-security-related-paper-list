@@ -227,6 +227,7 @@
 
 ## Others
 - 2017 CCS [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
+- 2021 ICLR [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898)
 
 # Machine Learning Related
 ## Fingerprint
