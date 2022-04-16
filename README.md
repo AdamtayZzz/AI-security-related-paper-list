@@ -84,6 +84,8 @@
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 CVPR MI-FGSM[Boosting Adversarial Attacks With Momentum](https://arxiv.org/abs/1710.06081v3)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
+- 2019 AAAI [Interpretation of Neural Networks Is Fragile](https://arxiv.org/abs/1710.10547)
+- 2019 ICCV [Fooling Network Interpretation in Image Classification](https://arxiv.org/abs/1812.02843)
 - 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 
 ### Defense-Robustness
