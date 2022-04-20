@@ -102,6 +102,7 @@
 - 2020 arxiv [A simple defense against adversarial attacks on heatmap explanations](https://arxiv.org/pdf/2007.06381.pdf)
 - [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
+- 2022 arxiv [Defense Against Explanation Manipulation](https://arxiv.org/abs/2111.04303)
 
 ### Defense-Detection
 
