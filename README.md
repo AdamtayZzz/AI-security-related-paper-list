@@ -1,4 +1,5 @@
 # AI Security Paper List
+- [AI Security Paper List](#ai-security-paper-list)
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
@@ -35,6 +36,9 @@
     + [Quantization](#quantization)
     + [Dynamic Inference](#dynamic-inference)
   * [Neural Network Interpretability](#neural-network-interpretability)
+    + [Analysis](#analysis)
+    + [Attack](#attack)
+    + [Defense](#defense-1)
 - [DNN Application](#dnn-application)
   * [GAN & AE](#gan---ae)
   * [Transformer](#transformer)
@@ -53,6 +57,7 @@
 - [Mathematics](#mathematics)
   * [Probabilistic Graphical Model](#probabilistic-graphical-model)
   * [others](#others)
+
 
 
 
@@ -84,9 +89,6 @@
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 CVPR MI-FGSM[Boosting Adversarial Attacks With Momentum](https://arxiv.org/abs/1710.06081v3)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
-- 2019 AAAI [Interpretation of Neural Networks Is Fragile](https://arxiv.org/abs/1710.10547)
-- 2019 ICCV [Fooling Network Interpretation in Image Classification](https://arxiv.org/abs/1812.02843)
-- 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 
 ### Defense-Robustness
 
@@ -99,10 +101,8 @@
 - 2017 arxiv [Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN](https://arxiv.org/abs/1705.03387)
 - 2018 AAAI [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404)
 - 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
-- 2020 arxiv [A simple defense against adversarial attacks on heatmap explanations](https://arxiv.org/pdf/2007.06381.pdf)
 - [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
-- 2022 arxiv [Defense Against Explanation Manipulation](https://arxiv.org/abs/2111.04303)
 
 ### Defense-Detection
 
@@ -288,11 +288,20 @@
 - 2014 ICLR Workshop [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
 - 2016 CVPR [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
 - 2017 ICCV [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
-- 2017 Arxiv [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2018 BMVC [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421)
-- 2018 NeurlPS [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
 - [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
 - [ ] 2020 IJCNN [Black-Box Saliency Map Generation Using Bayesian Optimisation](https://arxiv.org/abs/2001.11366)
+### Analysis
+- 2017 Arxiv [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
+- 2018 NeurlPS [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
+### Attack 
+- 2019 AAAI [Interpretation of Neural Networks Is Fragile](https://arxiv.org/abs/1710.10547)
+- 2019 ICCV [Fooling Network Interpretation in Image Classification](https://arxiv.org/abs/1812.02843)
+- 2019 NeurlPS Explanations can be manipulated and geometry is to blame(https://arxiv.org/abs/1906.07983)
+- 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
+### Defense
+- 2020 arxiv [A simple defense against adversarial attacks on heatmap explanations](https://arxiv.org/pdf/2007.06381.pdf)
+- 2022 arxiv [Defense Against Explanation Manipulation](https://arxiv.org/abs/2111.04303)
 
 
 # DNN Application
