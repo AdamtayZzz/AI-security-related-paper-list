@@ -297,7 +297,8 @@
 ### Attack 
 - 2019 AAAI [Interpretation of Neural Networks Is Fragile](https://arxiv.org/abs/1710.10547)
 - 2019 ICCV [Fooling Network Interpretation in Image Classification](https://arxiv.org/abs/1812.02843)
-- 2019 NeurlPS Explanations can be manipulated and geometry is to blame(https://arxiv.org/abs/1906.07983)
+- 2019 NeurlPS [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://arxiv.org/abs/1902.02041)
+- 2019 NeurlPS [Explanations can be manipulated and geometry is to blame](https://arxiv.org/abs/1906.07983)
 - 2020 USENIX [Interpretable Deep Learning under Fire](https://arxiv.org/abs/1812.00891)
 ### Defense
 - 2020 arxiv [A simple defense against adversarial attacks on heatmap explanations](https://arxiv.org/pdf/2007.06381.pdf)
