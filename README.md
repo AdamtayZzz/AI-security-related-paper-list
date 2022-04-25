@@ -295,6 +295,7 @@
 - 2017 Arxiv [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2018 NeurlPS [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
 - 2019 NeurlPS [On the (In)fidelity and Sensitivity for Explanations](https://arxiv.org/abs/1901.09392)
+- 2022 ICLR Workshop [Saliency Maps Contain Network "Fingerprints"](https://openreview.net/pdf?id=SWlpXB_bWc)
 ### Attack 
 - 2019 AAAI [Interpretation of Neural Networks Is Fragile](https://arxiv.org/abs/1710.10547)
 - 2019 ICCV [Fooling Network Interpretation in Image Classification](https://arxiv.org/abs/1812.02843)
