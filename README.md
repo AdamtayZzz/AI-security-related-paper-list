@@ -1,5 +1,4 @@
 # AI Security Paper List
-- [AI Security Paper List](#ai-security-paper-list)
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
@@ -54,12 +53,12 @@
     + [Toolbox](#toolbox)
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
+- [Face Recognition](#face-recognition)
+  * [Survey](#survey-3)
+  * [Anti FR](#anti-fr)
 - [Mathematics](#mathematics)
   * [Probabilistic Graphical Model](#probabilistic-graphical-model)
   * [others](#others)
-
-
-
 
 # Attack-Related
 
@@ -234,8 +233,6 @@
 
 ## Others
 - 2017 CCS [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
-- 2020 USENIX [Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](https://arxiv.org/abs/2002.08327)
-- 2021 ICLR [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898)
 
 # Machine Learning Related
 ## Fingerprint
@@ -371,6 +368,22 @@
 - 2020 CVPR [Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
 ](https://arxiv.org/abs/2004.04199)
 - 2020 IEEE ACCESS [An Effective Adversarial Attack on Person Re-Identification in Video Surveillance via Dispersion Reduction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9195855)
+- 2020 ECCV [Adversarial T-shirt! Evading Person Detectors in A Physical World](https://arxiv.org/abs/1910.11099)
+
+# Face Recognition
+## Survey
+- 2021 Arxiv [SoK: Anti-Facial Recognition Technology](https://arxiv.org/abs/2112.04558)
+## Anti FR
+- 2016 CCS [Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://users.ece.cmu.edu/~lbauer/papers/2016/ccs2016-face-recognition.pdf)
+- 2019 ISVC [DeepPrivacy: A Generative Adversarial Network for Face Anonymization](https://arxiv.org/abs/1909.04538)
+- 2019 CVPR [Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433)
+- 2019 IMWUT [VLA: A Practical Visible Light-based Attack on Face Recognition Systems in Physical World](https://dl.acm.org/doi/10.1145/3351261)
+- 2020 CVPR Workshop [Adversarial Light Projection Attacks on Face Recognition Systems: A Feasibility Study](https://arxiv.org/abs/2003.11145)
+- 2020 USENIX [Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](https://arxiv.org/abs/2002.08327)
+- 2021 ICCV [Towards Face Encryption by Generating Adversarial Identity Masks](https://arxiv.org/abs/2003.06814)
+- 2021 ICLR [LowKey: Leveraging Adversarial Attacks to Protect Social Media Users from Facial Recognition](https://arxiv.org/abs/2101.07922)
+- 2021 ICLR [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898)
+
 
 # Mathematics
 ## Probabilistic Graphical Model
