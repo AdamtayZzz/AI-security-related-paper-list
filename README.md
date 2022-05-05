@@ -58,6 +58,7 @@
     + [Anti FR](#anti-fr)
 - [Mathematics](#mathematics)
   * [Probabilistic Graphical Model](#probabilistic-graphical-model)
+  * [Convex Optimization](#convex-optimization)
   * [others](#others)
 
 # Attack-Related
@@ -391,6 +392,10 @@
 - 2007 NeurIPS[Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.5555/2981562.2981720)
 - 2017 AAAI[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
 - 2017 ICML [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
+
+## Convex Optimization
+- 2014 [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980)
+- 2019 AAAI [AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/pdf/1805.11770.pdf)
 
 
 ## others
