@@ -104,6 +104,7 @@
 - [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
 - 2021 ICCV [Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222)
+- 2022 USENIX [Transferring Adversarial Robustness Through Robust Representation Matching](https://arxiv.org/abs/2202.09994)
 
 ### Defense-Detection
 
@@ -241,6 +242,9 @@
 ### Model Fingerprint
 - 2019 AsiaCCS [IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/abs/1910.12903)
 - 2021 ESORICS [TAFA: A Task-Agnostic Fingerprinting Algorithm for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_26)
+- 2021 ICLR [Deep Neural Network Fingerprinting by Conferrable Adversarial Examples](https://arxiv.org/abs/1912.00888)
+- 2021 ISCAS [Fingerprinting Deep Neural Networks - a DeepFool Approach](https://ieeexplore.ieee.org/document/9401119)
+- 2021 ISSTA [ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection](https://arxiv.org/abs/2106.08890)
 ### Dataset Fingerprint
 - 2022 IEEE TIFS [Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication](https://ieeexplore.ieee.org/document/9724248)
 
