@@ -230,6 +230,7 @@
 - 2021 Arxiv [Source Inference Attacks in Federated Learning](https://arxiv.org/abs/2109.05659)
 - 2021 CVPR [On the Difficulty of Membership Inference Attacks](https://arxiv.org/abs/2005.13702)
 - 2021 AIES [On the Privacy Risks of Model Explanations](https://arxiv.org/abs/1907.00164)
+- 2022 USENIX [Membership Inference Attacks and Defenses in Neural Network Pruning](https://arxiv.org/abs/2202.03335)
 
 ## Property Inference Attack
 
