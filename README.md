@@ -260,6 +260,7 @@
 - [ ] 2018 USENIX[Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/abs/1802.04633)
 - 2019 ASPLOS [DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks](https://dl.acm.org/doi/10.1145/3297858.3304051)\
 - 2019 ICASSP [Attacks on Digital Watermarks for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8682202/)
+- 2020 AsiaCCS [Robust Membership Encoding: Inference Attacks and Copyright Protection for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3320269.3384731)
 - 2021 WWW [RIGA: Covert and Robust White-BoxWatermarking of Deep Neural Networks](https://arxiv.org/abs/1910.14268)
 
 ### Dataset Watermarking
