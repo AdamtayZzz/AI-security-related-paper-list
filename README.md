@@ -269,6 +269,7 @@
 
 ## Machine Unlearning
 - [ ] 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
+- 2021 AAAI [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)
 
 ## Theoretical Analysis
 - [ ] 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
