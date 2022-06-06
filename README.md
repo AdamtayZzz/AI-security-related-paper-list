@@ -303,6 +303,7 @@
 - 2018 BMVC [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421)
 - [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
 - [ ] 2020 IJCNN [Black-Box Saliency Map Generation Using Bayesian Optimisation](https://arxiv.org/abs/2001.11366)
+- 2021 CVPR [Black-box Explanation of Object Detectors via Saliency Maps](https://arxiv.org/abs/2006.03204)
 ### Analysis
 - 2017 Arxiv [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2018 NeurlPS [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
