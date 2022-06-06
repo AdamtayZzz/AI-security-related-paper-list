@@ -268,6 +268,7 @@
 - 2020 ICML [Radioactive data: tracing through training](http://proceedings.mlr.press/v119/sablayrolles20a.html)
 
 ## Machine Unlearning
+- 2019 NeurIPS [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/abs/1907.05012)
 - [ ] 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 - 2021 AAAI [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)
 
