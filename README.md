@@ -251,6 +251,7 @@
 - 2021 ICLR [Deep Neural Network Fingerprinting by Conferrable Adversarial Examples](https://arxiv.org/abs/1912.00888)
 - 2021 ISCAS [Fingerprinting Deep Neural Networks - a DeepFool Approach](https://ieeexplore.ieee.org/document/9401119)
 - 2021 ISSTA [ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection](https://arxiv.org/abs/2106.08890)
+- 2021 BMVC [Intrinsic Examples: Robust Fingerprinting of Deep Neural Networks](https://www.bmvc2021-virtualconference.com/assets/papers/0625.pdf)
 - 2022 S&P [Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/abs/2112.05588)
 - 2022 USENIX [Teacher Model Fingerprinting Attacks Against Transfer Learning](https://arxiv.org/abs/2106.12478)
 ### Dataset Fingerprint
