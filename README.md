@@ -233,6 +233,7 @@
 - 2021 AIES [On the Privacy Risks of Model Explanations](https://arxiv.org/abs/1907.00164)
 - 2022 USENIX [Membership Inference Attacks and Defenses in Neural Network Pruning](https://arxiv.org/abs/2202.03335)
 - 2020 S&P [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570)
+- 2022 Arxiv [Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets](https://arxiv.org/abs/2204.00032)
 
 ## Property Inference Attack
 
