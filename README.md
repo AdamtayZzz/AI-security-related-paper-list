@@ -89,6 +89,7 @@
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 CVPR MI-FGSM[Boosting Adversarial Attacks With Momentum](https://arxiv.org/abs/1710.06081v3)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
+- 2021 CVPR [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](Simulating Unknown Target Models for Query-Efficient Black-box Attacks)
 
 ### Defense-Robustness
 
