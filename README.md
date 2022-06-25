@@ -154,6 +154,7 @@
 - 2021 ICCV [Invisible Backdoor Attack with Sample-Specific Triggers](https://arxiv.org/abs/2012.03816)
 - 2021 Infocom [Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks](https://ieeexplore.ieee.org/document/9488902)
 - 2021 ICLR [WaNet -- Imperceptible Warping-based Backdoor Attack](https://arxiv.org/abs/2102.10369)
+- 2022 IJCAI [Data-Efficient Backdoor Attacks](https://arxiv.org/abs/2204.12281)
 
 
 ### Attack - not Data poisoning 
