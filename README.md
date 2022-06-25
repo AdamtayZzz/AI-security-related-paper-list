@@ -210,6 +210,7 @@
 - 2020 CVPR [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795)
 - 2021 CVPR [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
 - 2022 USENIX Security [Theory-Oriented Deep Leakage from Gradients via Linear Equation Solver](https://arxiv.org/abs/2010.13356)
+- 2022 Arxiv [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758)
 
 ## Membership Inference Attack
 
