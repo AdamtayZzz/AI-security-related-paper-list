@@ -259,6 +259,7 @@
 - 2021 BMVC [Intrinsic Examples: Robust Fingerprinting of Deep Neural Networks](https://www.bmvc2021-virtualconference.com/assets/papers/0625.pdf)
 - 2022 S&P [Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/abs/2112.05588)
 - 2022 USENIX [Teacher Model Fingerprinting Attacks Against Transfer Learning](https://arxiv.org/abs/2106.12478)
+- 2022 CVPR [Fingerprinting Deep Neural Networks Globally via Universal Adversarial Perturbations](https://arxiv.org/abs/2202.08602)
 ### Dataset Fingerprint
 - 2022 IEEE TIFS [Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication](https://ieeexplore.ieee.org/document/9724248)
 
