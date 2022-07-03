@@ -182,6 +182,7 @@
 - 2020 ACSAC [Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network](https://arxiv.org/abs/1908.03369)
 - 2021 ICLR [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)
 - 2021 NeurIPS [Anti-Backdoor Learning: Training Clean Models on Poisoned Data](https://arxiv.org/abs/2110.11571)
+- 2021 NeurIPS [Adversarial Neuron Pruning Purifies Backdoored Deep Models](https://arxiv.org/abs/2110.14430)
 
 ## Data Poisoning
 
