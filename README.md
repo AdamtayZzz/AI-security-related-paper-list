@@ -105,6 +105,7 @@
 - 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
 - 2019 NuerIPS [Adversarial Examples are not Bugs, they are Features](https://proceedings.neurips.cc/paper/2019/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
 - [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
+- 2020 ICML [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
 - 2021 ICCV [Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222)
 - 2022 USENIX [Transferring Adversarial Robustness Through Robust Representation Matching](https://arxiv.org/abs/2202.09994)
@@ -315,6 +316,8 @@
 - [ ] 2019 NeurIPS [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/abs/1905.00780)
 - [ ] 2020 IJCNN [Black-Box Saliency Map Generation Using Bayesian Optimisation](https://arxiv.org/abs/2001.11366)
 - 2021 CVPR [Black-box Explanation of Object Detectors via Saliency Maps](https://arxiv.org/abs/2006.03204)
+- 2021 Arxiv [Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
+
 ### Analysis
 - 2017 Arxiv [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2018 NeurlPS [Sanity Checks for Saliency Maps](https://papers.nips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
