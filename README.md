@@ -59,6 +59,7 @@
 - [Mathematics](#mathematics)
   * [Probabilistic Graphical Model](#probabilistic-graphical-model)
   * [Convex Optimization](#convex-optimization)
+  * [Manifold](#manifold)
   * [others](#others)
 
 # Attack-Related
@@ -426,6 +427,8 @@
 - 2014 [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980)
 - 2019 AAAI [AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/pdf/1805.11770.pdf)
 
+## Manifold
+- [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil)
 
 ## others
 
