@@ -319,6 +319,7 @@
 - [ ] 2020 IJCNN [Black-Box Saliency Map Generation Using Bayesian Optimisation](https://arxiv.org/abs/2001.11366)
 - 2021 CVPR [Black-box Explanation of Object Detectors via Saliency Maps](https://arxiv.org/abs/2006.03204)
 - 2021 Arxiv [Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability](https://arxiv.org/abs/2108.01335)
+- 2022 ECCV [SESS：Saliency Enhancing with Scaling and Sliding](https://arxiv.org/abs/2207.01769)
 
 ### Analysis
 - 2017 Arxiv [The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
