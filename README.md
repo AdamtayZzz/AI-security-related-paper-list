@@ -157,6 +157,7 @@
 - 2021 Infocom [Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks](https://ieeexplore.ieee.org/document/9488902)
 - 2021 ICLR [WaNet -- Imperceptible Warping-based Backdoor Attack](https://arxiv.org/abs/2102.10369)
 - 2022 IJCAI [Data-Efficient Backdoor Attacks](https://arxiv.org/abs/2204.12281)
+- 2022 AAAI [Hibernated Backdoor- A Mutual Information Empowered Backdoor Attack to Deep Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai6346)
 
 
 ### Attack - not Data poisoning 
