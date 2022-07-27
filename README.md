@@ -106,6 +106,7 @@
 - 2018 CVPR [Defense against Universal Adversarial Perturbations](https://arxiv.org/abs/1711.05929)
 - 2019 NuerIPS [Adversarial Examples are not Bugs, they are Features](https://proceedings.neurips.cc/paper/2019/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
 - [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
+- 2020 NeurIPS [Adversarial Self-Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)
 - 2020 ICML [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
 - 2021 ICCV [Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222)
