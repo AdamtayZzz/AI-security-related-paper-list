@@ -93,6 +93,7 @@
 - 2018 ICDM [Query-Efficient Black-Box Attack by Active Learning](https://arxiv.org/abs/1809.04913)
 - 2021 CVPR [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Simulating_Unknown_Target_Models_for_Query-Efficient_Black-Box_Attacks_CVPR_2021_paper.pdf)
 - 2022 CVPR [Improving Adversarial Transferability via Neuron Attribution-Based Attacks](https://arxiv.org/abs/2204.00008)
+- 2022 IJCAI [A Few Seconds Can Change Everything: Fast Decision-based Attacks against DNNs](https://www.ijcai.org/proceedings/2022/464)
 
 ### Defense-Robustness
 
