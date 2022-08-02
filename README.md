@@ -134,6 +134,7 @@
 - 2020 AAAI [ML-LOO: Detecting Adversarial Examples with Feature Attribution](https://arxiv.org/abs/1906.03499)
 - 2021 Springer [Adversarial example detection based on saliency map features](https://link.springer.com/article/10.1007/s10489-021-02759-8)
 - 2020 KDD [Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense](https://dl.acm.org/doi/abs/10.1145/3394486.3403044)
+- 2020 SPAI [Stateful Detection of Black-Box Adversarial Attacks](https://dl.acm.org/doi/10.1145/3385003.3410925)
 - 2021 arxiv [ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](https://arxiv.org/abs/2103.11526)
 - 2022 USENIX [Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks](https://arxiv.org/abs/2006.14042)
 
