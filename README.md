@@ -275,6 +275,7 @@
 - 2022 CVPR [Fingerprinting Deep Neural Networks Globally via Universal Adversarial Perturbations](https://arxiv.org/abs/2202.08602)
 ### Dataset Fingerprint
 - 2022 IEEE TIFS [Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication](https://ieeexplore.ieee.org/document/9724248)
+- 2022 IJCAI [MetaFinger: Fingerprinting the Deep Neural Networks with Meta-training](https://www.ijcai.org/proceedings/2022/0109.pdf)
 
 ## Watermarking
 ### Model Watermarking
