@@ -253,6 +253,7 @@
 - 2021 AsiaCCS [Membership Feature Disentanglement Network](Membership Feature Disentanglement Network)
 - 2022 Arxiv [Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets](https://arxiv.org/abs/2204.00032)
 - 2022 ECCV [Semi-Leak- Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)
+- 2022 TDSC [Membership Inference Attacks against Machine Learning Models via Prediction Sensitivity](https://ieeexplore.ieee.org/document/9793586/)
 
 ## Property Inference Attack
 
