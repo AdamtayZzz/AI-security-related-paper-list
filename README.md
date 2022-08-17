@@ -252,6 +252,7 @@
 - 2020 S&P [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570)
 - 2021 AsiaCCS [Membership Feature Disentanglement Network](Membership Feature Disentanglement Network)
 - 2022 Arxiv [Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets](https://arxiv.org/abs/2204.00032)
+- 2022 ECCV [Semi-Leak- Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)
 
 ## Property Inference Attack
 
