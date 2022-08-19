@@ -200,6 +200,7 @@
 - 2017 ICML [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
 - 2018 NeurIPS [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
 - 2022 AAAI [CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets](https://aaai-2022.virtualchair.net/poster_aaai3872)
+- 2022 USENIX [PoisonedEncoder-Poisoning the Unlabeled Pre-training Data in Contrastive Learning](http://arxiv.org/abs/2205.06401)
 
 
 ## Hardware Fault Attack
