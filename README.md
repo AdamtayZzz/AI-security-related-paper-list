@@ -252,7 +252,7 @@
 - 2021 AIES [On the Privacy Risks of Model Explanations](https://arxiv.org/abs/1907.00164)
 - 2022 USENIX [Membership Inference Attacks and Defenses in Neural Network Pruning](https://arxiv.org/abs/2202.03335)
 - 2020 S&P [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570)
-- 2021 AsiaCCS [Membership Feature Disentanglement Network](Membership Feature Disentanglement Network)
+- 2021 AsiaCCS [Membership Feature Disentanglement Network](https://dl.acm.org/doi/abs/10.1145/3488932.3497772)
 - 2022 Arxiv [Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets](https://arxiv.org/abs/2204.00032)
 - 2022 ECCV [Semi-Leak- Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)
 - 2022 TDSC [Membership Inference Attacks against Machine Learning Models via Prediction Sensitivity](https://ieeexplore.ieee.org/document/9793586/)
