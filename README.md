@@ -291,6 +291,7 @@
 - 2020 AsiaCCS [Robust Membership Encoding: Inference Attacks and Copyright Protection for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3320269.3384731)
 - 2021 WWW [RIGA: Covert and Robust White-BoxWatermarking of Deep Neural Networks](https://arxiv.org/abs/1910.14268)
 - 2021 KSEM [Fragile Neural Network Watermarking with Trigger Image Set](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_23)
+- 2022 arxiv [AWEncoder: Adversarial Watermarking Pre-trained Encoders in Contrastive Learning](https://arxiv.org/abs/2208.03948)
 
 ### Dataset Watermarking
 - 2020 NeurIPS Workshop [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)
