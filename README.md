@@ -264,6 +264,7 @@
 
 ## Others
 - 2017 CCS [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
+- 2022 ICML [On the Difficulty of Defending Self-Supervised Learning against Model Extraction](https://arxiv.org/abs/2205.07890)
 
 # Machine Learning Related
 ## Fingerprint
