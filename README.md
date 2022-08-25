@@ -167,6 +167,7 @@
 - 2022 IJCAI [Data-Efficient Backdoor Attacks](https://arxiv.org/abs/2204.12281)
 - 2022 AAAI [Hibernated Backdoor- A Mutual Information Empowered Backdoor Attack to Deep Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai6346)
 - 2022 CVPR [Backdoor Attacks on Self-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Saha_Backdoor_Attacks_on_Self-Supervised_Learning_CVPR_2022_paper.pdf)
+- 2022 CVPR [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)
 
 
 ### Attack - not Data poisoning 
