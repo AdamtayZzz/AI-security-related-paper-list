@@ -273,6 +273,7 @@
 - 2019 AsiaCCS [IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/abs/1910.12903)
 - 2019 CVPR [Sensitive-Sample Fingerprinting of Deep Neural Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Sensitive-Sample_Fingerprinting_of_Deep_Neural_Networks_CVPR_2019_paper.pdf)
 - 2020 Computer Communications [AFA: Adversarial fingerprinting authentication for deep neural networks](https://www.sciencedirect.com/science/article/pii/S014036641931686X)
+- 2020 ACSAC [Secure and Verifiable Inference in Deep Neural Networks](https://dl.acm.org/doi/10.1145/3427228.3427232)
 - 2021 ESORICS [TAFA: A Task-Agnostic Fingerprinting Algorithm for Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_26)
 - 2021 ICLR [Deep Neural Network Fingerprinting by Conferrable Adversarial Examples](https://arxiv.org/abs/1912.00888)
 - 2021 ISCAS [Fingerprinting Deep Neural Networks - a DeepFool Approach](https://ieeexplore.ieee.org/document/9401119)
@@ -282,16 +283,17 @@
 - 2022 S&P [Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/abs/2112.05588)
 - 2022 USENIX [Teacher Model Fingerprinting Attacks Against Transfer Learning](https://arxiv.org/abs/2106.12478)
 - 2022 CVPR [Fingerprinting Deep Neural Networks Globally via Universal Adversarial Perturbations](https://arxiv.org/abs/2202.08602)
-### Dataset Fingerprint
-- 2022 IEEE TIFS [Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication](https://ieeexplore.ieee.org/document/9724248)
 - 2022 IJCAI [MetaFinger: Fingerprinting the Deep Neural Networks with Meta-training](https://www.ijcai.org/proceedings/2022/0109.pdf)
 - 2022 ICIP [Neural network fragile watermarking with no model performance degradation](https://arxiv.org/abs/2208.07585)
 - 2022 TIFS [A DNN Fingerprint for Non-Repudiable Model Ownership Identification and Piracy Detection](https://ieeexplore.ieee.org/document/9854806/)
 
+### Dataset Fingerprint
+- 2022 IEEE TIFS [Your Model Trains on My Data? Protecting Intellectual Property of Training Data via Membership Fingerprint Authentication](https://ieeexplore.ieee.org/document/9724248)
+
 ## Watermarking
 ### Model Watermarking
 - 2017 ICMR [Embedding Watermarks into Deep Neural Networks](https://arxiv.org/abs/1701.04082)
-- [ ] 2018 USENIX[Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/abs/1802.04633)
+- [ ] 2018 USENIX [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/abs/1802.04633)
 - 2019 ASPLOS [DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks](https://dl.acm.org/doi/10.1145/3297858.3304051)\
 - 2019 ICASSP [Attacks on Digital Watermarks for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8682202/)
 - 2020 AsiaCCS [Robust Membership Encoding: Inference Attacks and Copyright Protection for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3320269.3384731)
