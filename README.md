@@ -338,13 +338,16 @@
 - 2018 ICLR [Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/abs/1802.08635)
 
 ###  Dynamic NN
+- 2017 CVPR [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/abs/1612.02297)
 - 2018 ICLR [Multi-Scale Dense Networks for Resource Efficient Image Classification](https://arxiv.org/abs/1703.09844)
+- 2018 ECCV [SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485)
 - 2019 ICML [Shallow-Deep Networks: Understanding and Mitigating Network Overthinking](https://arxiv.org/abs/1810.07052)
 - 2021 PAMI [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 
 #### Security-related
 - 2020 ICLR [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](https://arxiv.org/abs/2002.10025)
+- 2020 CVPR [ILFO: Adversarial Attack on Adaptive Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haque_ILFO_Adversarial_Attack_on_Adaptive_Neural_Networks_CVPR_2020_paper.pdf)
 - 2021 ICLR [A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference](https://arxiv.org/abs/2010.02432)
 - 2021 IEEE IOTJ [DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing](https://ieeexplore.ieee.org/document/9664815)
 - 2021 Arxiv [Fingerprinting Multi-exit Deep Neural Network Models via Inference Time](https://arxiv.org/abs/2110.03175)
