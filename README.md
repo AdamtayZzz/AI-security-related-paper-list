@@ -33,7 +33,8 @@
   * [Model Hiding](#model-hiding)
   * [Model Design for Efficiency](#model-design-for-efficiency)
     + [Quantization](#quantization)
-    + [Dynamic Inference](#dynamic-inference)
+    + [Dynamic NN](#dynamic-nn)
+      - [Security-related](#security-related)
   * [Neural Network Interpretability](#neural-network-interpretability)
     + [Analysis](#analysis)
     + [Attack](#attack)
@@ -60,6 +61,7 @@
   * [Probabilistic Graphical Model](#probabilistic-graphical-model)
   * [Convex Optimization](#convex-optimization)
   * [Manifold](#manifold)
+  * [Learning Theory](#learning-theory)
   * [others](#others)
 
 # Attack-Related
@@ -471,6 +473,10 @@
 
 ## Manifold
 - [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil)
+
+## Learning Theory
+- 2014 NeurIPS [Learning, Regularization and Ill-Posed Inverse Problems](https://proceedings.neurips.cc/paper/2004/file/33267e5dc58fad346e92471c43fcccdc-Paper.pdf)
+- 2015 ICML Workshop [Norm-Based Capacity Control in Neural Networks](https://arxiv.org/abs/1503.00036)
 
 ## others
 
