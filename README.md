@@ -308,8 +308,12 @@
 
 ## Machine Unlearning
 - 2019 NeurIPS [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/abs/1907.05012)
-- [ ] 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
+- 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 - 2021 AAAI [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)
+- 2022 TDSC [Learn to Forget: Machine Unlearning via Neuron Masking](https://arxiv.org/abs/2003.10933)
+- 2022 AAAI [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf)
+- 2022 Arxiv [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)
+
 
 ## Theoretical Analysis
 - [ ] 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
@@ -331,8 +335,18 @@
 - 2018 Google White Paper [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342)
 - 2018 ICLR [Loss-aware Weight Quantization of Deep Networks](https://arxiv.org/abs/1802.08635)
 
-###  Dynamic Inference
+###  Dynamic NN
+- 2018 ICLR [Multi-Scale Dense Networks for Resource Efficient Image Classification](https://arxiv.org/abs/1703.09844)
+- 2019 ICML [Shallow-Deep Networks: Understanding and Mitigating Network Overthinking](https://arxiv.org/abs/1810.07052)
+- 2021 PAMI [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
+
+#### Security-related
+- 2020 ICLR [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](https://arxiv.org/abs/2002.10025)
+- 2021 ICLR [A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference](https://arxiv.org/abs/2010.02432)
+- 2021 IEEE IOTJ [DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing](https://ieeexplore.ieee.org/document/9664815)
+- 2021 Arxiv [Fingerprinting Multi-exit Deep Neural Network Models via Inference Time](https://arxiv.org/abs/2110.03175)
+
 
 ## Neural Network Interpretability
 - 2014 ECCV [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
