@@ -315,7 +315,7 @@
 - 2022 TDSC [Learn to Forget: Machine Unlearning via Neuron Masking](https://arxiv.org/abs/2003.10933)
 - 2022 AAAI [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf)
 - 2022 Arxiv [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)
-
+- 2022 ECCV [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224)
 
 ## Theoretical Analysis
 - [ ] 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
@@ -348,6 +348,7 @@
 - 2021 ICLR [A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference](https://arxiv.org/abs/2010.02432)
 - 2021 IEEE IOTJ [DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing](https://ieeexplore.ieee.org/document/9664815)
 - 2021 Arxiv [Fingerprinting Multi-exit Deep Neural Network Models via Inference Time](https://arxiv.org/abs/2110.03175)
+- 2022 CCS [Auditing Membership Leakages of Multi-Exit Networks](https://arxiv.org/abs/2208.11180)
 
 
 ## Neural Network Interpretability
