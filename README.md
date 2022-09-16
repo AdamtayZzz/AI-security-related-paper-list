@@ -352,6 +352,7 @@
 - 2021 IEEE IOTJ [DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing](https://ieeexplore.ieee.org/document/9664815)
 - 2021 Arxiv [Fingerprinting Multi-exit Deep Neural Network Models via Inference Time](https://arxiv.org/abs/2110.03175)
 - 2022 CCS [Auditing Membership Leakages of Multi-Exit Networks](https://arxiv.org/abs/2208.11180)
+- 2022 ICSE [EREBA: Black-box Energy Testing of Adaptive Neural Networks](https://arxiv.org/abs/2202.06084)
 
 
 ## Neural Network Interpretability
