@@ -310,12 +310,17 @@
 
 ## Machine Unlearning
 - 2019 NeurIPS [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/abs/1907.05012)
-- 2021 S&P oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
+- 2020 MICCAI [Have you forgotten? A method to Assess If Machine Learning Models Have Forgotten Data](https://arxiv.org/abs/2004.10129)
+- 2021 S&P Oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 - 2021 AAAI [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)
+- 2021 MICCAI [EMA: Auditing Data Removal from Trained Model](https://arxiv.org/abs/2109.03675)
+- 2021 ICML [Certified Data Removal from Machine Learning Models](https://arxiv.org/abs/1911.03030)
 - 2022 TDSC [Learn to Forget: Machine Unlearning via Neuron Masking](https://arxiv.org/abs/2003.10933)
 - 2022 AAAI [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf)
+- 2022 AAAI [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://arxiv.org/abs/2109.08266)
 - 2022 Arxiv [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)
 - 2022 ECCV [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224)
+
 
 ## Theoretical Analysis
 - [ ] 2014 MIPS [On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/abs/1402.1869)
