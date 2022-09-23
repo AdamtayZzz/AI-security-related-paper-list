@@ -320,6 +320,7 @@
 - 2022 AAAI [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://www.aaai.org/AAAI22Papers/AAAI-10608.WuG.pdf)
 - 2022 AAAI [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://arxiv.org/abs/2109.08266)
 - 2022 Arxiv [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)
+- 2022 Arxiv [Zero-shot machine unlearning](https://arxiv.org/abs/2201.05629)
 - 2022 ECCV [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224)
 - 2022 USENIX [On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning](https://arxiv.org/abs/2110.11891)
 
