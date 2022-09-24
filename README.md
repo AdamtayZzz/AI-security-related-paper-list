@@ -312,6 +312,8 @@
 ## Machine Unlearning
 - 2019 NeurIPS [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/abs/1907.05012)
 - 2020 MICCAI [Have you forgotten? A method to Assess If Machine Learning Models Have Forgotten Data](https://arxiv.org/abs/2004.10129)
+- 2020 CVPR [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://arxiv.org/abs/1911.04933)
+- 2021 ECCV [Forgetting Outside the Box- Scrubbing Deep Networks of Information Accessible from Input-Output Observations](https://arxiv.org/abs/2003.02960)
 - 2021 S&P Oakland [Machine Unlearning](https://arxiv.org/abs/1912.03817)
 - 2021 AAAI [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)
 - 2021 MICCAI [EMA: Auditing Data Removal from Trained Model](https://arxiv.org/abs/2109.03675)
