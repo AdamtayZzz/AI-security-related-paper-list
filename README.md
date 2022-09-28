@@ -31,7 +31,8 @@
   * [Machine Unlearning](#machine-unlearning)
   * [Theoretical Analysis](#theoretical-analysis)
   * [Model Hiding](#model-hiding)
-  * [Model Design for Efficiency](#model-design-for-efficiency)
+  * [Model Design](#model-design)
+  * [For Effectiveness](#for-effectiveness)
     + [Quantization](#quantization)
     + [Dynamic NN](#dynamic-nn)
       - [Security-related](#security-related)
@@ -338,7 +339,11 @@
 - 2020 arxiv [On Hiding Neural Networks Inside Neural Networks](https://arxiv.org/abs/2002.10078)
 - 2021 arxiv [Recurrent Parameter Generators](https://arxiv.org/abs/2107.07110)
 
-## Model Design for Efficiency 
+## Model Design
+
+## For Effectiveness
+
+- 2021 NIPS [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
 
 ### Quantization
 
