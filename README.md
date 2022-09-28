@@ -343,6 +343,7 @@
 
 ## For Effectiveness
 
+- 2021 AAAI [TransTailor- Pruning the Pre-trained Model for Improved Transfer Learning](https://arxiv.org/abs/2103.01542)
 - 2021 NIPS [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
 
 ### Quantization
