@@ -17,7 +17,7 @@
     + [Preliminaries](#preliminaries)
     + [Applications](#applications)
 - [Privacy-Related](#privacy-related)
-  * [Survey](#survey)
+  * [Survey](#survey-2)
   * [Data Reconstruction](#data-reconstruction)
   * [Membership Inference Attack](#membership-inference-attack)
   * [Property Inference Attack](#property-inference-attack)
