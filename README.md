@@ -17,6 +17,7 @@
     + [Preliminaries](#preliminaries)
     + [Applications](#applications)
 - [Privacy-Related](#privacy-related)
+  * [Survey](#survey)
   * [Data Reconstruction](#data-reconstruction)
   * [Membership Inference Attack](#membership-inference-attack)
   * [Property Inference Attack](#property-inference-attack)
@@ -221,6 +222,10 @@
 - 2020 USENIX [DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips](https://arxiv.org/abs/2003.13746)
 
 # Privacy-Related 
+
+## Survey
+
+- 2021 Arxiv [Survey- Leakage and Privacy at Inference Time](https://arxiv.org/abs/2107.01614)
 
 ## Data Reconstruction
 
