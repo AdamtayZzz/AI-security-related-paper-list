@@ -268,6 +268,7 @@
 - 2022 TDSC [Membership Inference Attacks against Machine Learning Models via Prediction Sensitivity](https://ieeexplore.ieee.org/document/9793586/)
 - 2022 USENIX [Membership Inference Attacks and Defenses in Neural Network Pruning](https://arxiv.org/abs/2202.03335)
 - 2022 S&P [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570)
+- 2022 NeurlPS [M4I: Multi-modal Models Membership Inference](https://arxiv.org/pdf/2209.06997.pdf)
 
 ## Property Inference Attack
 
