@@ -6,6 +6,7 @@
     + [Defense-Robustness](#defense-robustness)
     + [Defense-Detection](#defense-detection)
     + [Attack-others](#attack-others)
+    + [Certified Robustness](#certified-robustness)
   * [Backdoor Attack](#backdoor-attack)
     + [Survey](#survey-1)
     + [Attack - Data poisoning](#attack---data-poisoning)
@@ -52,12 +53,12 @@
     + [Adversarial Attack on RL](#adversarial-attack-on-rl)
     + [Others](#others-1)
   * [Person Re-identification](#person-re-identification)
-    + [Survey](#survey-2)
+    + [Survey](#survey-3)
     + [Toolbox](#toolbox)
     + [Design](#design-1)
     + [Adversarial Attack on ReID](#adversarial-attack-on-reid)
   * [Face Recognition](#face-recognition)
-    + [Survey](#survey-3)
+    + [Survey](#survey-4)
     + [Anti FR](#anti-fr)
 - [Mathematics](#mathematics)
   * [Probabilistic Graphical Model](#probabilistic-graphical-model)
@@ -65,6 +66,8 @@
   * [Manifold](#manifold)
   * [Learning Theory](#learning-theory)
   * [others](#others)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Attack-Related
 
