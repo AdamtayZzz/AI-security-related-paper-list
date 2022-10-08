@@ -153,6 +153,7 @@
 
 ### Certified Robustness
 - 2020 NIPS [Denoised Smoothing: A Provable Defense for Pretrained Classifiers](https://arxiv.org/abs/2003.01908)
+- 2022 ICLR [How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective](https://openreview.net/forum?id=W9G_ImpHlQd)
 
 ## Backdoor Attack
 
