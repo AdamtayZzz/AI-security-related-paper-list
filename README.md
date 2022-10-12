@@ -376,6 +376,7 @@
 - 2019 ICML [Shallow-Deep Networks: Understanding and Mitigating Network Overthinking](https://arxiv.org/abs/1810.07052)
 - 2021 PAMI [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
+- 2022 AAAI [ReX: an Efficient Approach to Reducing Memory Cost in Image Classification](https://www.aaai.org/AAAI22Papers/AAAI-3050.QianX.pdf)
 
 #### Security-related
 - 2020 ICLR [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](https://arxiv.org/abs/2002.10025)
