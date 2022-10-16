@@ -1,10 +1,12 @@
 # AI Security Paper List
+- [AI Security Paper List](#ai-security-paper-list)
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
     + [Attack-CV](#attack-cv)
     + [Defense-Robustness](#defense-robustness)
     + [Defense-Detection](#defense-detection)
+    + [Defense-Input transformation](#defense-input-transformation)
     + [Attack-others](#attack-others)
     + [Certified Robustness](#certified-robustness)
   * [Backdoor Attack](#backdoor-attack)
@@ -66,8 +68,6 @@
   * [Manifold](#manifold)
   * [Learning Theory](#learning-theory)
   * [others](#others)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Attack-Related
 
@@ -144,7 +144,12 @@
 - 2020 SPAI [Stateful Detection of Black-Box Adversarial Attacks](https://dl.acm.org/doi/10.1145/3385003.3410925)
 - 2021 arxiv [ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](https://arxiv.org/abs/2103.11526)
 - 2022 USENIX [Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks](https://arxiv.org/abs/2006.14042)
-- 2022 ICLR [Reverse Engineering of Imperceptible Adversarial Image Perturbations](https://arxiv.org/abs/2203.14145)
+
+### Defense-Input transformation
+ - 2018 CVPR [Deflecting Adversarial Attacks with Pixel Deflection](https://arxiv.org/abs/1801.08926)
+ - 2018 CVPR [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976)
+ - 2019 ICCV [CIIDefence: Defeating Adversarial Attacks by Fusing Class-specific Image Inpainting and Image Denoising](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gupta_CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class-Specific_Image_Inpainting_and_ICCV_2019_paper.pdf)
+ - 2022 ICLR [Reverse Engineering of Imperceptible Adversarial Image Perturbations](https://arxiv.org/abs/2203.14145)
 
 ### Attack-others
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
