@@ -150,6 +150,7 @@
  - 2018 CVPR [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976)
  - 2019 ICCV [CIIDefence: Defeating Adversarial Attacks by Fusing Class-specific Image Inpainting and Image Denoising](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gupta_CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class-Specific_Image_Inpainting_and_ICCV_2019_paper.pdf)
  - 2021 ICCV [Removing Adversarial Noise in Class Activation Feature Space](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Removing_Adversarial_Noise_in_Class_Activation_Feature_Space_ICCV_2021_paper.pdf)
+ - 2021 ICML [Towards Defending against Adversarial Examples via Attack-Invariant Features](https://arxiv.org/abs/2106.05036)
  - 2022 ICLR [Reverse Engineering of Imperceptible Adversarial Image Perturbations](https://arxiv.org/abs/2203.14145)
 
 ### Attack-others
