@@ -305,6 +305,7 @@
 - 2021 ISCAS [Fingerprinting Deep Neural Networks - a DeepFool Approach](https://ieeexplore.ieee.org/document/9401119)
 - 2021 ISSTA [ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection](https://arxiv.org/abs/2106.08890)
 - 2021 BMVC [Intrinsic Examples: Robust Fingerprinting of Deep Neural Networks](https://www.bmvc2021-virtualconference.com/assets/papers/0625.pdf)
+- 2021 IJCAI [Characteristic Examples: High-Robustness, Low-Transferability Fingerprinting of Neural Networks](https://www.ijcai.org/proceedings/2021/0080.pdf)
 - 2021 Journal of Computer Research and Development [An Evasion Algorithm to Fool Fingerprint Detector for Deep Neural Networks](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20200903)
 - 2022 KDD [MetaV: A Meta-Verifier Approach to Task-Agnostic Model Fingerprinting](https://arxiv.org/abs/2201.07391)
 - 2022 S&P [Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/abs/2112.05588)
