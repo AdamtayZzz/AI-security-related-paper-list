@@ -98,6 +98,7 @@
 - 2018 CVPR MI-FGSM[Boosting Adversarial Attacks With Momentum](https://arxiv.org/abs/1710.06081v3)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
 - 2018 ICDM [Query-Efficient Black-Box Attack by Active Learning](https://arxiv.org/abs/1809.04913)
+- 2020 CVPR [Boosting the Transferability of Adversarial Samples via Attention](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf)
 - 2021 CVPR [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Simulating_Unknown_Target_Models_for_Query-Efficient_Black-Box_Attacks_CVPR_2021_paper.pdf)
 - 2022 CVPR [Improving Adversarial Transferability via Neuron Attribution-Based Attacks](https://arxiv.org/abs/2204.00008)
 - 2022 IJCAI [A Few Seconds Can Change Everything: Fast Decision-based Attacks against DNNs](https://www.ijcai.org/proceedings/2022/464)
