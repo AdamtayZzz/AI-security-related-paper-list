@@ -153,8 +153,10 @@
  - 2020 CVPR [A Self-supervised Approach for Adversarial Robustness](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf)
  - 2021 ICCV [Removing Adversarial Noise in Class Activation Feature Space](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Removing_Adversarial_Noise_in_Class_Activation_Feature_Space_ICCV_2021_paper.pdf)
  - 2021 ICML [Towards Defending against Adversarial Examples via Attack-Invariant Features](https://arxiv.org/abs/2106.05036)
+ - 2022 CVPR Workshop [SymDNN- Simple & Effective Adversarial Robustness for Embedded Systems](https://openaccess.thecvf.com/content/CVPR2022W/EVW/papers/Dey_SymDNN_Simple__Effective_Adversarial_Robustness_for_Embedded_Systems_CVPRW_2022_paper.pdf)
  - 2022 ICLR [Reverse Engineering of Imperceptible Adversarial Image Perturbations](https://arxiv.org/abs/2203.14145)
  - 2022 ICML [Modeling Adversarial Noise for Adversarial Training](https://arxiv.org/abs/2109.09901)
+
 
 ### Attack-others
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
