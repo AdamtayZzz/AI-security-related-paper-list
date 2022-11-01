@@ -330,10 +330,12 @@
 - 2019 ASPLOS [DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks](https://dl.acm.org/doi/10.1145/3297858.3304051)\
 - 2019 ICASSP [Attacks on Digital Watermarks for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8682202/)
 - 2020 AsiaCCS [Robust Membership Encoding: Inference Attacks and Copyright Protection for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3320269.3384731)
+- 2021 USENIX [Entangled Watermarks as a Defense against Model Extraction](https://arxiv.org/abs/2002.12200)
 - 2021 WWW [RIGA: Covert and Robust White-BoxWatermarking of Deep Neural Networks](https://arxiv.org/abs/1910.14268)
 - 2021 KSEM [Fragile Neural Network Watermarking with Trigger Image Set](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_23)
 - 2022 arxiv [AWEncoder: Adversarial Watermarking Pre-trained Encoders in Contrastive Learning](https://arxiv.org/abs/2208.03948)
 - 2022 AAAI [DeepAuth: A DNN Authentication Framework by Model-Unique and Fragile Signature Embedding](https://www.aaai.org/AAAI22Papers/AAAI-3901.LaoY.pdf) 
+- 2022 Oakland S&P [SoK- How Robust is Image Classification Deep Neural Network Watermarking?](https://arxiv.org/abs/2108.04974)
 
 ### Dataset Watermarking
 - 2020 NeurIPS Workshop [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)
