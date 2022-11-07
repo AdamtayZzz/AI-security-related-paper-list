@@ -67,6 +67,7 @@
   * [Convex Optimization](#convex-optimization)
   * [Manifold](#manifold)
   * [Learning Theory](#learning-theory)
+  * [Causal Inference](#causal-inference)
   * [others](#others)
 
 # Attack-Related
@@ -530,6 +531,13 @@
 ## Learning Theory
 - 2014 NeurIPS [Learning, Regularization and Ill-Posed Inverse Problems](https://proceedings.neurips.cc/paper/2004/file/33267e5dc58fad346e92471c43fcccdc-Paper.pdf)
 - 2015 ICML Workshop [Norm-Based Capacity Control in Neural Networks](https://arxiv.org/abs/1503.00036)
+
+## Causal Inference
+- 2020 CVPR [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://arxiv.org/abs/2003.06576)
+- 2020 CVPR [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538)
+- 2020 CVPR [Visual Commonsense R-CNN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.pdf)
+- 2021 CVPR [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)
+
 
 ## others
 
