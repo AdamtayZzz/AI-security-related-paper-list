@@ -145,6 +145,7 @@
 - 2020 KDD [Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense](https://dl.acm.org/doi/abs/10.1145/3394486.3403044)
 - 2020 SPAI [Stateful Detection of Black-Box Adversarial Attacks](https://dl.acm.org/doi/10.1145/3385003.3410925)
 - 2021 arxiv [ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](https://arxiv.org/abs/2103.11526)
+- 2021 AAAI [Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain](https://arxiv.org/abs/2103.04302)
 - 2022 USENIX [Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks](https://arxiv.org/abs/2006.14042)
 
 ### Defense-Input transformation
@@ -390,6 +391,7 @@
 - 2018 ICLR [Multi-Scale Dense Networks for Resource Efficient Image Classification](https://arxiv.org/abs/1703.09844)
 - 2018 ECCV [SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485)
 - 2019 ICML [Shallow-Deep Networks: Understanding and Mitigating Network Overthinking](https://arxiv.org/abs/1810.07052)
+- 2020 NeurIPS [BERT Loses Patience: Fast and Robust Inference with Early Exit](https://arxiv.org/abs/2006.04152)
 - 2021 PAMI [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 - 2022 AAAI [ReX: an Efficient Approach to Reducing Memory Cost in Image Classification](https://www.aaai.org/AAAI22Papers/AAAI-3050.QianX.pdf)
