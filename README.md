@@ -122,7 +122,7 @@
 - 2021 ICLR [Self-supervised adversarial robustness for the low-label, high-data regime](https://openreview.net/forum?id=bgQek2O63w)
 - 2021 NeurIPS [When Does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?](https://arxiv.org/abs/2111.01124)
 - 2022 USENIX [Transferring Adversarial Robustness Through Robust Representation Matching](https://arxiv.org/abs/2202.09994)
-- 2022 ICML [Improving Adversarial Robustness via Mutual Information Estimation](Improving Adversarial Robustness via Mutual Information Estimation)
+- 2022 ICML [Improving Adversarial Robustness via Mutual Information Estimation](https://arxiv.org/abs/2207.12203)
 
 ### Defense-Detection
 
