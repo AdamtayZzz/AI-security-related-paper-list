@@ -145,7 +145,11 @@
 - 2020 SPAI [Stateful Detection of Black-Box Adversarial Attacks](https://dl.acm.org/doi/10.1145/3385003.3410925)
 - 2021 arxiv [ExAD: An Ensemble Approach for Explanation-based Adversarial Detection](https://arxiv.org/abs/2103.11526)
 - 2021 AAAI [Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain](https://arxiv.org/abs/2103.04302)
+- 2021 ICML Workshop [Detecting AutoAttack Perturbations in the Frequency Domain](https://openreview.net/forum?id=8uWOTxbwo-Z)
+- 2021 IJCNN [SpectralDefense: Detecting Adversarial Attacks on CNNs in the Fourier Domain](https://arxiv.org/abs/2103.03000)
+- 2021 MM Workshop [Frequency Centric Defense Mechanisms against Adversarial Examples](https://arxiv.org/abs/2110.13935)
 - 2022 USENIX [Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks](https://arxiv.org/abs/2006.14042)
+- 2022 [From Spatial to Spectral Domain, a New Perspective for Detecting Adversarial Examples](https://www.hindawi.com/journals/scn/2022/5501035/)
 
 ### Defense-Input transformation
  - 2016 CVPR [A study of the effect of JPG compression on adversarial images](https://arxiv.org/abs/1608.00853)
