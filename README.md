@@ -550,4 +550,4 @@
 ## others
 
 - Blind Signal Separation [Blind signal separation: statistical principles](https://ieeexplore.ieee.org/document/720250)
-
+- 2018 ICML [MINE: Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
