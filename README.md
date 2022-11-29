@@ -551,3 +551,4 @@
 
 - Blind Signal Separation [Blind signal separation: statistical principles](https://ieeexplore.ieee.org/document/720250)
 - 2018 ICML [MINE: Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
+- 2019 ICLR [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
