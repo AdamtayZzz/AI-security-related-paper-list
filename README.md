@@ -118,6 +118,7 @@
 - 2020 NeurIPS [Adversarial Self-Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)
 - 2020 ICML [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
 - 2020 ICLR [Improving adversarial robustness requires revisiting misclassified examples](https://openreview.net/forum?id=rklOg6EFwS)
+- 2020 ICML [Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization](https://arxiv.org/abs/2002.11798)
 - [ ] 2021 arxiv [Meta Adversarial Training against Universal Patches](https://arxiv.org/abs/2101.11453)
 - 2020 CVPR [Adversarial Robustness- From Self-Supervised Pre-Training to Fine-Tuning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf)
 - 2021 ICCV [Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222)
