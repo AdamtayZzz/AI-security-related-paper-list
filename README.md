@@ -171,8 +171,10 @@
 
 ### Attack-others
 - 2018 NDSS [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271)
+- 2018 ACL [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751)
 - 2019 S&P [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)
 - 2019 IJCNN [Adversarial Attacks on Deep Neural Networks for Time Series Classification](https://arxiv.org/abs/1903.07054)
+- 2020 AAAI [Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
 
 ### Certified Robustness
 - 2020 NIPS [Denoised Smoothing: A Provable Defense for Pretrained Classifiers](https://arxiv.org/abs/2003.01908)
