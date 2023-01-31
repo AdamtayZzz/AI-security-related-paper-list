@@ -349,6 +349,7 @@
 - 2022 arxiv [AWEncoder: Adversarial Watermarking Pre-trained Encoders in Contrastive Learning](https://arxiv.org/abs/2208.03948)
 - 2022 AAAI [DeepAuth: A DNN Authentication Framework by Model-Unique and Fragile Signature Embedding](https://www.aaai.org/AAAI22Papers/AAAI-3901.LaoY.pdf) 
 - 2022 Oakland S&P [SoK- How Robust is Image Classification Deep Neural Network Watermarking?](https://arxiv.org/abs/2108.04974)
+- 2022 Oakland S&P [Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/abs/2112.05588)
 
 ### Dataset Watermarking
 - 2020 NeurIPS Workshop [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)
