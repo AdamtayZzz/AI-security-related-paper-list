@@ -1,5 +1,3 @@
-# AI Security Paper List
-- [AI Security Paper List](#ai-security-paper-list)
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
@@ -25,6 +23,8 @@
   * [Membership Inference Attack](#membership-inference-attack)
   * [Property Inference Attack](#property-inference-attack)
   * [Others](#others)
+- [Fairness & Bias](#fairness---bias)
+  * [NLP](#nlp)
 - [Machine Learning Related](#machine-learning-related)
   * [Fingerprint](#fingerprint)
     + [Model Fingerprint](#model-fingerprint)
@@ -69,6 +69,7 @@
   * [Learning Theory](#learning-theory)
   * [Causal Inference](#causal-inference)
   * [others](#others)
+
 
 # Attack-Related
 
@@ -205,6 +206,7 @@
 - 2022 AAAI [Hibernated Backdoor- A Mutual Information Empowered Backdoor Attack to Deep Neural Networks](https://aaai-2022.virtualchair.net/poster_aaai6346)
 - 2022 CVPR [Backdoor Attacks on Self-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Saha_Backdoor_Attacks_on_Self-Supervised_Learning_CVPR_2022_paper.pdf)
 - 2022 CVPR [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)
+- 2022 ICML [Neurotoxin: Durable Backdoors in Federated Learning](https://arxiv.org/abs/2206.10341)
 
 
 ### Attack - not Data poisoning 
@@ -271,6 +273,8 @@
 - 2021 CVPR [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
 - 2022 USENIX Security [Theory-Oriented Deep Leakage from Gradients via Linear Equation Solver](https://arxiv.org/abs/2010.13356)
 - 2022 Arxiv [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758)
+- 2022 ICLR [Label Leakage and Protection in Two-party Split Learning](https://arxiv.org/abs/2102.08504)
+- 2022 ICLR [Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models](https://arxiv.org/abs/2110.13057)
 
 ## Membership Inference Attack
 
@@ -310,6 +314,26 @@
 ## Others
 - 2017 CCS [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
 - 2022 ICML [On the Difficulty of Defending Self-Supervised Learning against Model Extraction](https://arxiv.org/abs/2205.07890)
+
+# Fairness & Bias
+## NLP
+- 2019 NAACL [On Measuring Social Biases in Sentence Encoders](https://arxiv.org/abs/1903.10561)
+- 2020 AAAI [On Measuring and Mitigating Biased Inferences of Word Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/6267)
+- 2020 EMNLP [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://aclanthology.org/2020.emnlp-main.154/) 
+- 2020 ACL [Towards Debiasing Sentence Representations](https://arxiv.org/abs/2007.08100)
+- 2021 ACL [StereoSet: Measuring stereotypical bias in pretrained language models](https://aclanthology.org/2021.acl-long.416/)
+- 2021 ACL [Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)
+- 2021 ICML [Towards Understanding and Mitigating Social Biases in Language Models](https://arxiv.org/abs/2106.13219)
+- 2021 TransACL [Self-Diagnosis and Self-Debiasing:A Proposal for Reducing Corpus-Based Bias in NLP](https://www.semanticscholar.org/paper/Self-Diagnosis-and-Self-Debiasing%3A-A-Proposal-for-Schick-Udupa/ce9ca56036307217ea565644d3d3bd74b879e045)
+- 2021 EACL [Debiasing Pre-trained Contextualised Embeddings](https://arxiv.org/abs/2101.09523)
+- 2021 EMNLP [Sustainable Modular Debiasing of Language Models](https://aclanthology.org/2021.findings-emnlp.411.pdf)
+- 2021 EMNLP [Mitigating Language-Dependent Ethnic Bias in BERT](https://arxiv.org/abs/2109.05704)
+- 2021 ICLR [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://arxiv.org/abs/2103.06413)
+- 2022 ACL [Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://arxiv.org/abs/2105.04170)
+- 2022 ACL [An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models](https://arxiv.org/abs/2110.08527)
+- 2022 EMNLP [MABEL: Attenuating Gender Bias using Textual Entailment Data](https://aclanthology.org/2022.emnlp-main.657/)
+- 2022 EMNLP [Debiasing Pretrained Text Encoders by Paying Attention to Paying Attention](https://aclanthology.org/2022.emnlp-main.651/)
+
 
 # Machine Learning Related
 ## Fingerprint
@@ -551,6 +575,10 @@
 - 2020 CVPR [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538)
 - 2020 CVPR [Visual Commonsense R-CNN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.pdf)
 - 2021 CVPR [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)
+- 2020 NeurIPS [Investigating Gender Bias in Language Models Using Causal Mediation Analysis](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf)
+- 2021 NeurIPS [A Causal Lens for Controllable Text Generation](https://arxiv.org/abs/2201.09119)
+- 2022 ACL [Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View](https://aclanthology.org/2022.acl-long.398.pdf)
+- 2022 EMNLP [Mitigating Spurious Correlation in Natural Language Understanding with Counterfactual Inference](https://aclanthology.org/2022.emnlp-main.777/)
 
 
 ## others
