@@ -208,6 +208,7 @@
 - 2022 CVPR [Backdoor Attacks on Self-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Saha_Backdoor_Attacks_on_Self-Supervised_Learning_CVPR_2022_paper.pdf)
 - 2022 CVPR [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)
 - 2022 ICML [Neurotoxin: Durable Backdoors in Federated Learning](https://arxiv.org/abs/2206.10341)
+- 2023 Infocom [Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing](https://arxiv.org/abs/2212.11751)
 
 
 ### Attack - not Data poisoning 
@@ -375,6 +376,7 @@
 - 2022 AAAI [DeepAuth: A DNN Authentication Framework by Model-Unique and Fragile Signature Embedding](https://www.aaai.org/AAAI22Papers/AAAI-3901.LaoY.pdf) 
 - 2022 Oakland S&P [SoK- How Robust is Image Classification Deep Neural Network Watermarking?](https://arxiv.org/abs/2108.04974)
 - 2022 Oakland S&P [Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/abs/2112.05588)
+- 2023 Arxiv [The Stable Signature: Rooting Watermarks in Latent Diffusion Model](https://arxiv.org/abs/2303.15435)
 
 ### Dataset Watermarking
 - 2020 NeurIPS Workshop [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/abs/2010.05821)
@@ -429,9 +431,13 @@
 - 2018 ECCV [SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485)
 - 2019 ICML [Shallow-Deep Networks: Understanding and Mitigating Network Overthinking](https://arxiv.org/abs/1810.07052)
 - 2020 NeurIPS [BERT Loses Patience: Fast and Robust Inference with Early Exit](https://arxiv.org/abs/2006.04152)
+- 2020 ICML [PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination](https://arxiv.org/abs/2001.08950)
 - 2021 PAMI [Dynamic Neural Networks: A Survey](https://arxiv.org/abs/2102.04906)
 - 2021 IEEE TETC [Fully Dynamic Inference with Deep Neural Networks](https://arxiv.org/abs/2007.15151)
 - 2022 AAAI [ReX: an Efficient Approach to Reducing Memory Cost in Image Classification](https://www.aaai.org/AAAI22Papers/AAAI-3050.QianX.pdf)
+- 2022 KDD [Learned Token Pruning for Transformers](https://arxiv.org/abs/2107.00910)
+- 2022 ACL [Transkimmer: Transformer Learns to Layer-wise Skim](https://aclanthology.org/2022.acl-long.502/)
+- 2023 EACL [A Survey on Dynamic Neural Networks for Natural Language Processing](https://arxiv.org/abs/2202.07101)
 
 #### Security-related
 - 2020 ICLR [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](https://arxiv.org/abs/2002.10025)
@@ -441,6 +447,8 @@
 - 2021 Arxiv [Fingerprinting Multi-exit Deep Neural Network Models via Inference Time](https://arxiv.org/abs/2110.03175)
 - 2022 CCS [Auditing Membership Leakages of Multi-Exit Networks](https://arxiv.org/abs/2208.11180)
 - 2022 ICSE [EREBA: Black-box Energy Testing of Adaptive Neural Networks](https://arxiv.org/abs/2202.06084)
+- 2022 FSE [NMTSloth: Understanding and Testing Efficiency Degradation of Neural Machine Translation Systems](https://arxiv.org/abs/2210.03696)
+- 2022 CVPR [NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models](https://arxiv.org/abs/2203.15859)
 
 
 ## Neural Network Interpretability
