@@ -115,7 +115,6 @@
 - 2017 arxiv [Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN](https://arxiv.org/abs/1705.03387)
 - 2018 AAAI [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404)
 - 2019 NuerIPS [Adversarial Examples are not Bugs, they are Features](https://proceedings.neurips.cc/paper/2019/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf)
-- [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - 2019 ICML [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573)
 - 2020 NeurIPS [Adversarial Self-Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf)
 - 2020 ICML [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
@@ -179,8 +178,14 @@
 - 2020 AAAI [Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932)
 
 ### Certified Robustness
+- 2019 ICML [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)
+- [ ] 2019 NeurIPS [Certified Adversarial Robustness with Additive Noise](https://arxiv.org/abs/1809.03113)
 - 2020 NIPS [Denoised Smoothing: A Provable Defense for Pretrained Classifiers](https://arxiv.org/abs/2003.01908)
 - 2022 ICLR [How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective](https://openreview.net/forum?id=W9G_ImpHlQd)
+- 2022 ICLR [On the Certified Robustness for Ensemble Models and Beyond](https://arxiv.org/abs/2107.10873)
+- 2022 ICML [Intriguing Properties of Input-Dependent Randomized Smoothing](https://arxiv.org/abs/2110.05365)
+- 2023 ICLR [(Certified!!) Adversarial Robustness for Free!](https://arxiv.org/abs/2206.10550)
+- 2023 ICLR [DensePure: Understanding Diffusion Models towards Adversarial Robustness](https://arxiv.org/abs/2211.00322)
 
 ## Backdoor Attack
 
@@ -273,6 +278,7 @@
 - 2020 USENIX Security [Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning](https://arxiv.org/abs/1904.01067)
 - 2020 CVPR [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795)
 - 2021 CVPR [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
+- 2021 计算机研究与发展 [通用深度学习语言模型的隐私风险评估](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200908)
 - 2022 USENIX Security [Theory-Oriented Deep Leakage from Gradients via Linear Equation Solver](https://arxiv.org/abs/2010.13356)
 - 2022 Arxiv [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758)
 - 2022 ICLR [Label Leakage and Protection in Two-party Split Learning](https://arxiv.org/abs/2102.08504)
