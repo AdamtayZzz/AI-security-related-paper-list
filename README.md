@@ -2,7 +2,8 @@
 - [Attack-Related](#attack-related)
   * [Adversarial Attack](#adversarial-attack)
     + [Survey](#survey)
-    + [Attack-CV](#attack-cv)
+    + [Attack-WhiteBox](#attack-whitebox)
+    + [Attack-BlackBox](#attack-blackbox)
     + [Defense-Robustness](#defense-robustness)
     + [Defense-Detection](#defense-detection)
     + [Defense-Input transformation](#defense-input-transformation)
@@ -71,6 +72,9 @@
   * [Causal Inference](#causal-inference)
   * [others](#others)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 
 # Attack-Related
 
@@ -83,28 +87,44 @@
 - 2021 arxiv [Adversarial Example Detection for DNN Models: A Review and Experimental Comparison](https://arxiv.org/abs/2105.00203)
 - 2021 arxiv [Advances in adversarial attacks and defenses in computer vision: A survey](https://arxiv.org/abs/2108.00401)
 
-### Attack-CV
+### Attack-WhiteBox
 
 - 2014 ICLR [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
 - 2015 ICLR FGSM [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)
 - 2016 S&P JSMA [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
 - 2016 CVPR [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
-- 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
-- 2016 arXiv[Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
 - 2017 ICLR targeted FGSM [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)
 - 2017 ICLR BIM&ICLM [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
 - 2017 S&P C&W [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 - 2017 CVPR [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)
 - 2018 ICLR PGD[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
-- 2018 IEEE TECV one-pixel attack [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
+- 2018 IEEE TECV One-pixel attack [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 - 2018 AAAI [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/abs/1703.09387)
 - 2018 CVPR MI-FGSM[Boosting Adversarial Attacks With Momentum](https://arxiv.org/abs/1710.06081v3)
 - 2018 ICML [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
+
+### Attack-BlackBox
+
+- 2017 CCS [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
+- 2016 arXiv[Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
 - 2018 ICDM [Query-Efficient Black-Box Attack by Active Learning](https://arxiv.org/abs/1809.04913)
+- 2019 ICLR [Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks](https://arxiv.org/abs/1908.06281)
 - 2020 CVPR [Boosting the Transferability of Adversarial Samples via Attention](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf)
+- 2020 ICLR [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets](https://arxiv.org/abs/2002.05990)
+- 2020 NeurIPS [Backpropagating Linearly Improves Transferability of Adversarial Examples](https://arxiv.org/abs/2012.03528) 
+- 2021 ICCV [Admix: Enhancing the Transferability of Adversarial Attacks](https://arxiv.org/abs/2102.00436)
 - 2021 CVPR [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Simulating_Unknown_Target_Models_for_Query-Efficient_Black-Box_Attacks_CVPR_2021_paper.pdf)
 - 2022 CVPR [Improving Adversarial Transferability via Neuron Attribution-Based Attacks](https://arxiv.org/abs/2204.00008)
+
 - 2022 IJCAI [A Few Seconds Can Change Everything: Fast Decision-based Attacks against DNNs](https://www.ijcai.org/proceedings/2022/464)
+- 2023 CVPR [Improving the Transferability of Adversarial Samples by Path-Augmented Method](https://arxiv.org/abs/2303.15735) 
+- 2023 ICCV [Backpropagation Path Search On Adversarial Transferability](https://arxiv.org/abs/2308.07625) 
+- 2023 CVPR [Minimizing Maximum Model Discrepancy for Transferable Black-box Targeted Attacks](https://arxiv.org/abs/2212.09035) 
+- 2023 ICLR [Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples](https://arxiv.org/abs/2302.05086)  
+- 2023 CVPR [Towards Transferable Targeted Adversarial Examples](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Towards_Transferable_Targeted_Adversarial_Examples_CVPR_2023_paper.pdf) 
+- 2023 CVPR [Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup](https://openaccess.thecvf.com/content/CVPR2023/papers/Byun_Introducing_Competition_To_Boost_the_Transferability_of_Targeted_Adversarial_Examples_CVPR_2023_paper.pdf)  
+- 2023 CVPR [StyLess: Boosting the Transferability of Adversarial Examples](https://arxiv.org/abs/2304.11579)  
+- 2023 CVPR [Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization](https://arxiv.org/abs/2303.15754)  
 
 ### Defense-Robustness
 
